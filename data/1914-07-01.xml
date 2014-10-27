@@ -1,0 +1,2487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Punch, or the London Charivari, Vol. 147, July 1, 1914</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="gutenberg">24357</idno>
+                <availability>
+                    <p>This text is freely available for re-use under US and UK law, consult
+                            your local legal restrictions if elsewhere.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This text is a TEI version of a Project Gutenberg text originally located at
+                            <ptr target="http://www.gutenberg.org/dirs/2/4/3/5/24357/"/>. As per their license agreement we have removed
+                        all references to the project's trademark, however have included this
+                        pointer to the original in case you want the plain text, or their XHTML
+                        version. </p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2008-06-26T23:49:55.968+01:00"/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <figure>
+                <graphic width="800px" url="images/001a.png"/>
+            </figure>
+            <pb xml:id="V147_01" n="1"/>
+            <figure>
+                <graphic width="800px" url="images/001b.png"/>
+            </figure>
+            <milestone rend="hr" unit="rule"/>
+            <div xml:id="d1e58" type="verse">
+                <head>PROGRESS.</head>
+                <p>[<quote>Giving evidence recently before a Select
+Committee of the House of Commons, <persName>Miss
+C. E. Collet</persName>, of the Home Office, said the
+commercial laundry was killing the small
+hand laundry.</quote>—<title>Evening News.</title>]</p>
+                <lg>
+                    <l>The little crafts! How soon they die!</l>
+                    <l rend="i2">In cottage doors no shuttle clicks;</l>
+                    <l>The hand-loom has been ousted by</l>
+                    <l rend="i2">A large concern with lots more sticks.</l>
+                </lg>
+                <lg>
+                    <l>The throb of pistons beats around;</l>
+                    <l rend="i2">Great chimneys rise on Thames's banks;</l>
+                    <l>The same phenomena are found</l>
+                    <l rend="i2">In Sheffield (Yorks) and Oldham (Lancs).</l>
+                </lg>
+                <lg>
+                    <l>No longer now the housewife makes</l>
+                    <l rend="i2">Her rare preserves, for what's the good?</l>
+                    <l>The factory round the corner fakes</l>
+                    <l rend="i2">Raspberry jam with chips of wood.</l>
+                </lg>
+                <lg>
+                    <l>'Tis so with what we eat and wear,</l>
+                    <l rend="i2">Our bread, the boots wherein we splosh</l>
+                    <l>'Tis so with what I deemed most fair,</l>
+                    <l rend="i2">Most virginal of all—the Wash.</l>
+                </lg>
+                <lg>
+                    <l>'Tis this that chiefly, when I chant,</l>
+                    <l rend="i2">Fulfils my breast with sighs of ruth,</l>
+                    <l>To think that engines can supplant</l>
+                    <l rend="i2">The Amazons I loved in youth.</l>
+                </lg>
+                <lg>
+                    <l>That not with tender care, as erst</l>
+                    <l rend="i2">By spinster females fancy-free,</l>
+                    <l>These button-holes of mine get burst</l>
+                    <l rend="i2">Before the shift comes back to me;</l>
+                </lg>
+                <lg>
+                    <l>That mere machines, and not a maid</l>
+                    <l rend="i2">With fingers fatuously plied,</l>
+                    <l>The collars and the cuffs have frayed</l>
+                    <l rend="i2">That still excoriate my hide;</l>
+                </lg>
+                <lg>
+                    <l>That steam reduces to such states</l>
+                    <l rend="i2">What once was marred by human skill;</l>
+                    <l>That socks are sundered from their mates</l>
+                    <l rend="i2">By means of an electric mill;</l>
+                </lg>
+                <lg>
+                    <l>That not by Cupid's coy advance</l>
+                    <l rend="i2">(Some crone conniving at the fraud),</l>
+                    <l>But simply by mechanic chance,</l>
+                    <l rend="i2">I get this handkerchief marked "Maud."</l>
+                </lg>
+                <lg>
+                    <l>This is, indeed, a striking change;</l>
+                    <l rend="i2">I sometimes wonder if the world</l>
+                    <l>Gets better as the skies grow strange</l>
+                    <l rend="i2">With coils of smoke about them curled.</l>
+                </lg>
+                <lg>
+                    <l>If the old days were not the best</l>
+                    <l rend="i2">Ere printed formulas conveyed</l>
+                    <l>Sorrow about that silken vest</l>
+                    <l rend="i2">For all eternity mislaid;</l>
+                </lg>
+                <lg>
+                    <l>Ere yet the unwieldy motor-van</l>
+                    <l rend="i2">Came clattering round the kerbstone's brink,</l>
+                    <l>Its driver dreaming some new plan</l>
+                    <l rend="i2">To make my mauve pyjamas shrink.</l>
+                </lg>
+                <signed rend="sc">Evoe</signed>
+            </div>
+            <pb xml:id="V147_02" n="2"/>
+            <div xml:id="d1e263" type="prose">
+                <head>THE ENCHANTED CASTLE.</head>
+                <p>There are warm days in <placeName>London</placeName>
+when even a window-box fails to charm,
+and one longs for the more open spaces
+of the country. Besides, one wants to
+see how the other flowers are getting
+on. It is on these days that we
+travel to our Castle of Stopes; as the
+crow flies, fifteen miles away. Indeed,
+that is the way we get to it, for it is a
+castle in the air. And when we are
+come to it Celia is always in a pink
+sun-bonnet gathering roses lovingly,
+and I, not very far off, am speaking
+strongly to somebody or other about
+something I want done. By-and-by
+I shall go into the library and work ...
+with an occasional glance through the
+open window at Celia.</p>
+                <p>To think that a month ago we were
+quite happy with a few pink geraniums!</p>
+                <p>Sunday, a month ago, was hot.
+"Let's take train somewhere," said
+Celia, "and have lunch under a hedge."</p>
+                <p>"I know a lovely place for hedges,"
+I said.</p>
+                <p>"I know a lovely tin of potted
+grouse," said Celia, and she went off
+to cut some sandwiches. By twelve
+o'clock we were getting out of the
+train.</p>
+                <p>The first thing we came to was a golf
+course, and Celia had to drag me past
+it. Then we came to a wood, and I
+had to drag her through it. Another
+mile along a lane, and then we both
+stopped together.</p>
+                <p>"Oh!" we said.</p>
+                <p>It was a cottage, the cottage of a
+dream. And by a cottage I mean, not
+four plain rooms and a kitchen, but one
+surprising room opening into another;
+rooms all on different levels and of
+different shapes, with delightful places
+to bump your head on; open fireplaces;
+a large square hall, oak-beamed, where
+your guests can hang about after breakfast,
+while deciding whether to play
+golf or sit in the garden. Yet all so
+cunningly disposed that from outside
+it looks only a cottage or, at most, two
+cottages persuaded into one.</p>
+                <p>And, of course, we only saw it from
+outside. The little drive, determined
+to get there as soon as possible, pushed
+its way straight through an old barn, and
+arrived at the door simultaneously with
+the flagged lavender walk for the humble
+who came on foot. The rhododendrons
+were ablaze beneath the south windows;
+a little orchard was running wild on the
+west; there was a hint at the back of
+a clean-cut lawn. Also, you remember,
+there was a golf course, less than two
+miles away.</p>
+                <p>"Oh," said Celia with a deep sigh,
+"but we must live here."</p>
+                <p>An Irish terrier ran out to inspect
+us. I bent down and patted it. "With
+a dog," I added.</p>
+                <p>"Isn't it all lovely? I wonder who
+it belongs to, and if——"</p>
+                <p>"If he'd like to give it to us."</p>
+                <p>"Perhaps he would if he saw us and
+admired us very much," said Celia
+hopefully.</p>
+                <p>"I don't think <persName>Mr. Barlow</persName> is that
+sort of man," I said. "An excellent
+fellow, but not one to take these sudden
+fancies."</p>
+                <p>"<persName>Mr. Barlow</persName>? How do you know
+his name?"</p>
+                <p>"I have these surprising intuitions,"
+I said modestly. "The way the chimneys
+stand up——"</p>
+                <p>"I know," cried Celia. "The dog's
+collar."</p>
+                <p>"Right, Watson. And the name of
+the house is Stopes."</p>
+                <p>She repeated it to herself with a
+frown.</p>
+                <p>"What a disappointing name," she
+said. "Just Stopes."</p>
+                <p>"Stopes," I said. "Stopes, Stopes.
+If you keep on saying it, a certain old-world
+charm seems to gather round it.
+Stopes."</p>
+                <p>"Stopes," said Celia. "It <hi rend="it">is</hi> rather
+jolly."</p>
+                <p>We said it ten more times each, and
+it seemed the only possible name for it.
+Stopes—of course.</p>
+                <p>"Well?" I asked.</p>
+                <p>"We must write to <persName>Mr. Barlow</persName>,"
+said Celia decisively. "'Dear <persName>Mr. Barlow</persName>,
+er——Dear <persName>Mr. Barlow</persName>,——we——'
+Yes, it will be rather difficult. What
+do we want to say exactly?"</p>
+                <p>"'Dear <persName>Mr. Barlow</persName>,—May we have
+your house?'"</p>
+                <p>"Yes," smiled Celia, "but I'm afraid
+we can hardly ask for it. But we
+might rent it when—when he doesn't
+want it any more."</p>
+                <p>"'Dear <persName>Mr. Barlow</persName>,'" I amended,
+"'have you any idea when you're!
+going to die?' No, that wouldn't do
+either. And there's another thing—we
+don't know his initials, or even if he's
+a 'Mr.' Perhaps he's a knight or a—a
+duke. Think how offended Duke
+Barlow would be if we put '—— Barlow,
+Esq.' on the envelope."</p>
+                <p>"We could telegraph. 'Barlow. After
+you with Stopes.'"</p>
+                <p>"Perhaps there's a young Barlow,
+a Barlowette or two with expectations.
+It may have been in the family for
+years."</p>
+                <p>"Then we——Oh, let's have lunch."
+She sat down and began to undo the
+sandwiches. "Dear o' Stopes," she
+said with her mouth full.</p>
+                <p>We lunched outside Stopes. Surely
+if Earl Barlow had seen us he would
+have asked us in. But no doubt his
+dining-room looked the other way;
+towards the east and north, as I
+pointed out to Celia, thus being pleasantly
+cool at lunch-time.</p>
+                <p>"Ha, Barlow," I said dramatically,
+"a time will come when <hi rend="it">we</hi> shall be
+lunching in there, and <hi rend="it">you</hi>——bah!"
+And I tossed a potted-grouse sandwich
+to his dog.</p>
+                <p>However, that didn't get us any
+nearer.</p>
+                <p>"Will you <hi rend="it">promise</hi>," said Celia,
+"that we shall have lunch in there one
+day?"</p>
+                <p>"I promise," I said readily. That
+gave me about sixty years to do something
+in.</p>
+                <p>"I'm like—who was it who saw
+something of another man's and
+wouldn't be happy till he got it?"</p>
+                <p>"The baby in the soap advertisement."</p>
+                <p>"No, no, some king in history."</p>
+                <p>"I believe you are thinking of <name>Ahab</name>,
+but you aren't a bit like him, really.
+Besides, we're not coveting Stopes. All
+we want to know is, does Barlow ever
+let it in the summer?"</p>
+                <p>"That's it," said Celia eagerly.</p>
+                <p>"And, if so," I went on, "will he
+lend us the money to pay the rent
+with?"</p>
+                <p>"Er—yes," said Celia. "That's it."</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>So for a month we have lived in our
+Castle of Stopes. I see Celia there in
+her pink sun-bonnet, gathering the
+flowers lovingly, bringing an armful of
+them into the hall, disturbing me sometimes
+in the library with "<hi rend="it">Aren't</hi> they
+beauties? No, I only just looked in—good
+luck to you." And she sees me
+ordering a man about importantly,
+or waving my hand to her as I ride
+through the old barn on my road to
+the golf-course.</p>
+                <p>But this morning she had an idea.</p>
+                <p>"Suppose," she said timidly, "you
+<emph rend="it">wrote</emph> about Stopes, and <persName>Mr. Barlow</persName>;
+happened to see it, and knew how much
+we wanted it, and——"</p>
+                <p>"Well?"</p>
+                <p>"Then," said Celia firmly, "if he
+were a gentleman he would give it
+to us."</p>
+                <p>Very well. Now we shall see if Mr.
+Barlow is a gentleman.</p>
+                <signed>A. A. M.</signed>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e481" type="snippet">
+                <head>Correspondence.</head>
+                <p>"Equal Rights" writes:—</p>
+                <quote>
+                    <p>
+"Dear Sir,—Why are descriptive names confined
+to boxers, such as <persName>Bombardier Wells</persName>
+and <persName>Gunboat Smith</persName>? Why not <persName>Rifleman
+Redmond</persName>, <persName>Airman Churchill</persName>, <persName>Solicitor George</persName>,
+<persName>Golfer Asquith</persName>, <persName>Bushman Wilding</persName>, <persName>Trundler
+Hitch</persName>, <persName>Dude Alexander</persName>, <persName>Bandsman Beecham</persName>,
+<persName>Hunger-Striker Pankhurst</persName>? Or, to take
+Editors——"
+</p>
+                </quote>
+                <p>[The rest of this communication is
+omitted owing to considerations of
+space.—<hi rend="sc">Ed</hi>.]</p>
+            </div>
+            <pb xml:id="V147_03" n="3"/>
+            <div xml:id="d1e537" type="cartoon">
+                <figure>
+                    <graphic width="800px" url="images/003.png"/>
+                    <head>WHEN THE SHIPS COME HOME.</head>
+                    <p>Greece. <said>"ISN'T IT TIME WE STARTED FIGHTING AGAIN?"</said>
+                    </p>
+                    <p>Turkey. "<said>YES, I DARESAY. HOW SOON COULD YOU BEGIN?</said>"</p>
+                    <p>Greece. "<said>OH, IN A FEW WEEKS</said>."</p>
+                    <p>Turkey. "<said>NO GOOD FOR ME. SHAN'T BE READY TILL THE AUTUMN</said>".</p>
+                </figure>
+            </div>
+            <milestone rend="hr" unit="rule"/>
+            <pb xml:id="V147_5" n="5"/>
+            <div xml:id="d1e577" type="cartoon">
+                <figure>
+                    <graphic width="800px" url="images/005.png"/>
+                    <p>
+                        <said>We're giving our pastor a new drawing-room carpet on
+	    the occasion on his jubilee. Show me something that looks
+	    nice but isn't too expensive."</said>
+                    </p>
+                    <p>
+                        <said>"Here is the very thing, Madame—real Kidderminister."</said>
+                    </p>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e594" type="review">
+                <head>EGYPT IN VENICE.</head>
+                <head xml:lang="fr">"La Légende de Joseph2</head>
+                <p>Those who know the kind of attractions
+that the Russian ballet offers in so
+many of its themes could have easily
+guessed, without previous enlightenment,
+what episode in the life of <name rend="sc">Joseph</name>
+had been selected for illustration last
+week at Drury Lane. But they could
+never have guessed that Herr <name rend="sc">Tiessen</name>,
+author of a shilling guide to the intentions
+of the composer, would attach a
+transcendental significance to the conduct
+of <name>Potiphar's Wife</name>. "Through the
+unknown divine," he informs us,
+"which is still new and mysterious to
+her, an imperious desire awakens in
+her to fathom, to possess this world"—the
+world, that is to say, which <name>Joseph's</name>
+imagination creates in the course of an
+exhibition dance. If this is so, I can
+only say that her behaviour is strangely
+misleading.</p>
+                <p>The scene opens at a party given by
+<name>Potiphar</name> in Venice. Venice, of course,
+was not <name>Potiphar's</name> home address; and
+I marvel a little at the change of <hi rend="it">venue</hi>
+when I think how much more harmony
+could have been got out of an Egyptian
+setting. But then I remind myself
+that the Russian ballet is nothing if not
+<hi rend="it">bizarre</hi>. The long banqueting-table
+recalls the canvases of <name rend="sc">Veronese</name>, but
+with discordant notes of the Orient and
+elsewhere. <name>Potiphar</name> himself, seated
+on a dais, has the air of an Assyrian
+bull. By his side <name>Mme. Potiphar</name> wears
+breeches ending above the knee, with
+white stockings and high clogs.</p>
+                <p>For the entertainment of the guests
+there was a dance of nuptial unveiling
+and a bout between half-a-dozen Turkish
+boxers. But it was a decadent and
+<name>blazé</name> company, and something more
+piquant was needed for their titillation.
+This was supplied in the shape
+of an original dance by the fifteen-year-old
+<name>Joseph</name>, whom my guide describes as
+"graceful, wild and pungent." He was
+introduced in a recumbent posture, and
+asleep, on a covered stretcher, and at
+first I had the clever idea that he was
+the customary corpse that appeared at
+Egyptian feasts to remind the company
+of their liability to die. But when he
+woke up and began to dance I saw at
+once that I was wrong.</p>
+                <p>I now know all about the interpretation
+of <name>Joseph's</name> dance; but I defy anyone
+to say at sight and without a showman's
+assistance what precisely he was
+after. In the Third Figure (according
+to my guide-book) "there is in his
+leaps a feeling of heaviness, as if he
+were bound to earth, and he stumbles
+once or twice as one who has missed
+his goal;" but how was I to guess that
+this signified that his "searching after
+God" was still ineffectual? or that
+when in the Fourth Figure he "leaps
+with light feet" this meant that "Joseph
+has found God"? I don't blame the boy
+for not knowing the rule that forbids
+one art to trespass on the domain of
+another; but there is no excuse for
+Herr <name rend="sc">Strauss</name>, who must have been
+well aware that, for the conveyance of
+any but the most obvious emotions,
+mute dancing can never be a satisfactory
+substitute for articulate poetry.</p>
+                <p>However, <name>Potiphar's</name> guests seemed
+better instructed than I was, for they
+threw off their apathy and took quite an
+intelligent interest in <name>Joseph's</name>
+                    <name>pas seul</name>.
+Indeed, one young man (the episode
+escaped me at the dress rehearsal, but I
+<pb xml:id="V147_6" n="6"/>
+have it in the guide-book)—one young
+man, "sobbing, buries his head in his
+hands, upsetting thereby a dish of fruit."
+As for <name>Potiphar</name>, it failed to stir the
+sombre depths of his abysmal boredom,
+but his wife, whose ennui had hitherto
+been of the most profound, began to sit
+up and take notice, and at the end of the
+dance she sent for <name>Joseph</name> and supplemented
+his rather exiguous costume
+with a gross necklace of jewels, letting
+her hand linger awhile on his bare neck.
+Already, it will be seen, she was intrigued
+with the "unknown divine."
+<name>Joseph</name>, on the contrary, received
+her attentions without
+<hi rend="it">empressement</hi>.</p>
+                <p>In the next scene—after a
+rather woolly and unintelligible
+interlude—we see <name>Joseph</name>
+retiring to his couch in an
+alcove behind the place where
+the banqueting-table had
+been. You will judge how
+urgent was the lady's keenness
+to probe the mysteries
+of his divine nature
+when I tell you that she
+could not wait till the morning
+to pursue her enquiries,
+but must needs visit him in
+his chamber at dead of night,
+and wearing the one garment
+of the hour. At first, still
+half dreaming, he mistakes
+her for an angel (he had
+already seen one in his sleep),
+but subsequently, growing
+suspicious, he repels her with
+a dignified disdain. For I
+must tell you that, whatever
+the guide-book may allege
+about the loftiness of her
+designs, the music gave her
+away. It reverted, in fact,
+to the motive of those passages
+which had already accompanied
+and illustrated the
+nuptial dance, the dance (as
+Herr <name rend="sc">Tiessen</name> calls it) of
+"burning Love-longing."</p>
+                <p>At this juncture, <name>Potiphar</name>
+and his minions break upon the scene.
+His wife, after denouncing <name>Joseph</name>, is
+distracted between passion of hatred
+and passion of love, and there is some
+play (reminding one of <title>L'Après-midi
+d'un Faune</title>) with the purple cloak
+which <name>Joseph</name> had discarded. Presently
+she eludes her dilemma by fainting.</p>
+                <p>Meanwhile it has been the work of
+a moment to order up a brazier, a pair
+of pincers, a poker, a headsman and
+an axe. The instruments of torture
+waste no time in getting red-hot; and
+we anticipate the worst. <name>Joseph</name>, however,
+who has ignored these preparations
+and maintained an attitude of
+superbly indifferent aloofness, suddenly
+becomes luminous under great pressure
+of limelight; and most of the cast,
+including a ballet of female dervishes,
+are abashed to the ground.</p>
+                <p>Now appears, on the open-work
+entresol at the back of the stage, an
+archangel. The guide-book is in error
+where it says that he glides downwards
+on a shaft of light radiating from a
+star. As a matter of fact he walks
+down the main staircase to the ground
+floor. Approaching <name>Joseph</name> he takes
+him by the hand and "leads him
+heavenwards" by the same flight of
+steps; and we are to understand that,
+in the opinion of Herr <name rend="sc">Strauss</name>, the
+boy's subsequent career, as recorded
+in the Hebraic Scriptures, may be
+treated as negligible.</p>
+                <p>I should like, in excuse of my own
+flippancy, to assume the same detachment,
+and to regard this ballet-theme
+as having practically no relation whatever
+to Biblical history, but being just
+one of many themes out of Oriental
+lore, mostly secular, that lend themselves
+to the drama of disappointed
+passion. My only serious protest is
+against the hypocrisy which pretends,
+with regard to <name>Potiphar's Wife</name>, to see
+a spiritual significance in what is mere
+vulgar animalism.</p>
+                <p>I ought, by the way, to have said
+that, in a spasm of chagrin, she chokes
+herself with the pearl necklace which
+lent the only touch of superfluity to
+her night attire, and was carried out—but
+not up the main staircase. Thus
+ends this sordid tragedy that so well
+illustrates that quality in Herr <name rend="sc">Strauss</name>
+to which my guide refers when he
+speaks of his realization of a "poignant
+longing for divine cheerfulness."</p>
+                <signed>O. S.</signed>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e745" type="cartoon">
+                <figure>
+                    <graphic width="800px" url="images/006.png"/>
+                    <p>
+                        <said>"Excuse me, Sir, but would you like to buy a nice little
+dawg?"</said>
+                    </p>
+                    <p>
+                        <said>"No, thanks very much. He looks as though he would bite."</said>
+                    </p>
+                    <p>
+                        <said>"'E won't bite yer <hi rend="it">if you buy 'im</hi>, Guv'ner."</said>
+                    </p>
+                </figure>
+            </div>
+            <div xml:id="d1e768" type="verse">
+                <head>ENIGMA.</head>
+                <lg>
+                    <l rend="i2">My love to me is cold,</l>
+                    <l>And no more seeks my gaze; I wonder why!</l>
+                    <l>The smile of welcome that I loved of old</l>
+                    <l rend="i2">No longer lights her eye.</l>
+                </lg>
+                <lg>
+                    <l rend="i2">One little week ago</l>
+                    <l>I asked no surer guide than Cupid's chart;</l>
+                    <l>I said, "Your eyes reveal the depths below,</l>
+                    <l rend="i2">And I can read your heart."</l>
+                </lg>
+                <lg>
+                    <l rend="i2">She let her shy gaze fall,</l>
+                    <l>And smiling asked, "Is then my face a screed,</l>
+                    <l>My brow an open love-letter, where all</l>
+                    <l rend="i2">The world my thoughts may read?"</l>
+                </lg>
+                <lg>
+                    <l rend="i2">Said I, "The world, I'll vow,</l>
+                    <l>Is blind! Myself alone may see the signs,</l>
+                    <l>And know the message written on your brow:</l>
+                    <l rend="i2">I read between the lines."</l>
+                </lg>
+                <lg>
+                    <l rend="i2">My dear to me is cold;</l>
+                    <l>Gone somewhere is the love-light from her eye;</l>
+                    <l>And, when our ways meet, stately she doth hold</l>
+                    <l rend="i2">Her course. I wonder why.</l>
+                </lg>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e851" type="snippets">
+                <quote>
+                    <p>
+"Curiously, the Australian Minister of
+Defence in the last Parliament bore the same
+name as the Prime Minister in that which
+has just been dissolved."</p>
+                </quote>
+                <p>
+                    <title>Westminster Gazette.</title>
+                </p>
+                <p>A similar curious coincidence happened
+in England, the War Minister in the
+last Parliament bearing the same name
+as the present Lord Chancellor.</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>"MEN FOR THE ANTARCTIC.</p>
+                    <p> 105 Canadian Dogs to go with
+Sir E. Shackleton."</p>
+                </quote>
+                <p>
+                    <title>Daily Express.</title>
+                </p>
+                <p>A gay lot, these Canadians.</p>
+            </div>
+            <pb xml:id="V147_7" n="7"/>
+            <div xml:id="d1e893" type="prose">
+                <head>A SCANDALMONGRIAN ROMANCE.</head>
+                <head rend="it">(By Francis Scribble.)</head>
+                <p>[<hi rend="it">The following article, specially written
+for us by the Author of "Ten Frail
+Beauties of the Restoration," "Tales
+Told by a Royal Washerwoman,"
+etc., is another important contribution
+to the literature of the Royal Dirty-Linen
+Bag.</hi>]</p>
+                <p>A day or two ago a short notice in
+the papers told of the death of Mrs.
+Maria Tubbs at Cannes; but few, if any,
+of those who read that brief announcement
+will have recognised in it the
+close of one of the most amazing
+careers of the nineteenth century. Yet
+little surprise need be expressed at this
+general ignorance, for who would think
+to find under that somewhat common-place
+name the ravishingly beautiful
+Maria Cotherstone, who, forty years
+ago, was swept by Fate into the track
+of the late King of Scandalmongria,
+and well-nigh caused that singularly
+unstable bark to founder? It is with
+the kindly object of rescuing her
+romance from oblivion that this brief
+chronicle is written.</p>
+                <p>In 1873 the Scandalmongrian Minister
+in <placeName>London</placeName> was requested to find an
+English lady to take charge of the two
+children of his Royal master, and,
+after searching enquiries, he was successful,
+and <persName>Miss Maria Cotherstone</persName>
+turned her back on England never more
+to return. She was just twenty-two,
+fresh and blooming, possessed of the
+gayest of spirits, delightful manners
+and the highest accomplishments.
+Quietly she assumed control of the
+Royal schoolroom, and by her charm
+no less than by her firmness she
+quickly won the respect and love of
+her charges. Well had it been for her
+memory if her influence had never
+spread beyond the walls of her schoolroom;
+this article had then been unwritten.
+But alas for human nature!
+One day His Majesty's eyes fell upon
+the person of his children's governess,
+and then began one of the most sordid
+intrigues it has ever been my pleasure
+to recall. [A large statement, as readers
+of our author's <title>Gleanings from a Royal
+Dustbin</title> will readily acknowledge.
+However, the succeeding three-quarter
+of a column of details, here omitted,
+prove that there is at least some
+foundation for the remark.]</p>
+                <p>... And so their romance ended,
+and His Majesty returned to the bosom
+of his family and became once more the
+righteous upholder of the sanctity of
+the marriage tie. At first his easy-going
+Court smiled somewhat at the
+claim; but, when one or two highly-placed
+officials presumed to follow in
+the footsteps of their Sovereign, and
+were in consequence banished irrevocably
+from his presence, Scandalmongrian
+Society realised with a pained
+surprise that what is venial in a
+monarch may, in a subject, be a
+damnable offence.</p>
+                <p>And what of Maria, the charming,
+fascinating, much injured Maria? For
+several years she is lost, and then we
+hear of her marriage at Rome to "John
+Tubbs, Esq., of <placeName>London</placeName>," and once
+again she vanishes, only to turn up
+many years later at Cannes. She is a
+widow now, and a model of all the
+virtues. Who so staid and respectable
+as Madam? Who so charitable to the
+poor? Few, it is to be feared, will have
+recognised in that handsome old lady, so
+regular in her attendance at the services
+of the English Church, the beauteous
+Maria Cotherstone whose name was
+once on the lips of everybody from one
+end of Europe to the other. It nearly
+happened, indeed, that she went down
+to her grave with all her scandalous,
+feverish past forgotten, leaving behind
+her only the fragrant memory of her
+later life. But I have saved her. It is
+a queer story, quite interesting enough
+to recall.</p>
+            </div>
+            <div xml:id="d1e932" type="cartoon">
+                <figure>
+                    <head>THE HIGHER EDUCATION OF WOMEN.</head>
+                    <graphic width="800px" url="images/007.png"/>
+                    <p>
+                        <hi rend="it">Mistress.</hi>
+                        <said>"That's a nicely-made dress you have on, Jane. It's like the new
+parlourmaid's, isn't it?"</said>
+                    </p>
+                    <p>
+                        <hi rend="it">Jane (a close student of the fashion
+catalogues).</hi>
+                        <said>"Oh no, Ma'am, <emph>this</emph> is
+<emph>quite</emph> a different creation."</said>
+                    </p>
+                </figure>
+            </div>
+            <pb xml:id="V147_8" n="8"/>
+            <div xml:id="d1e965" type="snippets">
+                <head>CHARIVARIA.</head>
+                <p>It is not only misfortune that makes
+strange bedfellows. Both Earl <name rend="sc">Beauchamp</name>
+and Sir <name rend="sc">Joseph Beecham</name> appear
+in the recent Honours List.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>By-the-by, it is denied that Sir <name rend="sc">Joseph
+Beecham</name> was in any way responsible
+for the Government's "Pills for Earthquakes,"
+by which it was hoped to
+avert the Irish crisis.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>A <placeName>New York</placeName> cable announces that
+the Duke of <placeName>Manchester</placeName> is interesting
+himself in a cinematograph proposition
+of a philanthropic nature, and
+that the company will be known as the
+"Church and School Social Service Corporation
+for the Advancement of Moral
+and Religious Education and Social
+Uplift Work through the medium of the
+Higher Art of the Moving Picture." It
+will of course be possible for the man
+in a hurry to call it, <hi rend="it">tout court</hi>, the
+"C.&amp;S.S.S.C.F.T.A.O.M.&amp;R.E.&amp;S.U.W.T.T.M.O.T.H.A.O.T.M.P."</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>The penny off the income tax came
+just in time. It enabled several Liberal
+plutocrats to buy a rose on Alexandra
+Day.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>The balance-sheet of the German
+Company which had been running a
+Zeppelin airship passenger service has
+just been issued, and shows a loss of
+£10,000 on the year's working. This
+is not surprising, the difficulty which
+all aircraft experience to keep their
+balance.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>At the launch of the liner <title>Bismarck</title>
+last week, the bottle of wine—which was
+thrown by the Countess <name rend="sc">Hannah von
+Bismarck</name> missed the vessel, whereupon
+the <name rend="sc">Kaiser</name> hauled back the
+bottle, and with his proverbial good
+luck hit the target.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>Five shots were fired last week at
+Baron <name rend="sc">Henri de Rothschild</name>. At first
+it was thought that this was done to
+stop the author of <title>Crœsus</title> from writing
+more plays, but, when it transpired
+that the assailant was a man who
+objected to the "Rothschild Cheap
+Milk Supply," public sympathy veered
+round in favour of the Baron.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>Messrs. <name rend="sc">Selfridge and Co.</name> were last
+week defrauded by a well-dressed man,
+who obtained two dressing-bags with
+silver fittings by means of a trick without
+paying for them. This is really
+abominable. It is bad enough when
+merely commercial firms are victimised:
+to best a philanthropic institution in
+this way is peculiarly base.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>"<hi rend="sc">Mexican Rebel Split</hi>."</p>
+                <p>
+                    <title>Morning Post.</title>
+                </p>
+                <p>Now perhaps the other civilised
+Powers will intervene. We have heard
+of many inhumanities marking the war
+in Mexico, but this treatment of a rebel
+is surely the limit.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>It is not often, we imagine, that the
+British Navy is used to enforce a
+change of diet. H.M.S. <name>Torch</name> has
+just been ordered on a punitive expedition
+to Malekula Island, where certain
+of the natives have been eating some
+of their compatriots.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>An American woman, according to
+<title>The Express</title>, has a serious complaint
+about the <placeName>London</placeName> policeman. She declares
+that she walked all the way from
+Queen's Hall to Piccadilly Circus with
+three buttons of her blouse undone at
+the back, and "not a single policeman"
+offered to do it up for her. No doubt
+the Force was reluctant to interfere
+with what might turn out to be the
+latest fashion. A Boy Scout who
+offered, the other day, to sew up a
+split skirt got his ears soundly boxed.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>Meanwhile the glad tidings reach us
+that women's skirts and bodices are to
+fasten in front instead of at the back.
+Husbands all over the world who have
+on occasions been pressed into their
+wives' service as maids, only to learn
+that they were clumsy boobies, would
+like to have the name of the arbiter of
+fashion who is responsible for this
+innovation, as there is some thought
+of erecting a statue to him.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>Some distinguished German professors
+have been discussing the question
+of the best place in which to keep
+a baby in summer. It is characteristic,
+however, of these unpractical persons
+that not one of them suggests the
+obvious ice-safe.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>"One of the first things the rich
+should learn," says Dean <name rend="sc">Inge</name>, "is
+that money is not put to the best use
+when it is merely spent on enjoyment."
+It is hoped that this pronouncement
+may lead wealthy people to patronise
+our concert-halls more than they do.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>"£1,600," a newspaper tells us, "were
+found hidden in the cork leg of <name rend="sc">Harry
+C. Wise</name> while he was undergoing treatment
+in a hospital at Denver." And
+now, we suspect, <name rend="sc">Harry's</name> friends will
+always be pulling his leg.</p>
+                <milestone rend="stars" unit="rule"/>
+                <p>"Have you seen <title>Pelleas and Mélisande</title>?"</p>
+                <p>"No. Is it as funny as <title>Potash and
+Perlmutter</title>?"</p>
+            </div>
+            <div xml:id="d1e1128" type="prose">
+                <head>THE COLLECTORS.</head>
+                <p>My dinner partner was a self-made
+man and not ashamed of it.</p>
+                <p>"Do you take an interest in china,
+ma'am?" he asked me.</p>
+                <p>I felt that if I said "Yes" I should
+have to buy some. So I said "No,"
+but he didn't wait to hear what I said.</p>
+                <p>"I think I may say," he continued,
+"that I have the finest collection of
+old Dresden china in <placeName>London</placeName>."</p>
+                <p>He went into the figures, explaining
+the cost price and the difficulty of
+storage.</p>
+                <p>"Oh," said I, "if you find it a
+nuisance, I've a parlour-maid I could
+recommend to you; just the girl to
+help you to get rid of it."</p>
+                <p>At this point I think he had some
+idea of having the finest collection of
+parlourmaids in Middlesex, but he made
+it small dogs instead. Was I interested
+in these? No, but I supposed I'd have
+to be if he insisted.</p>
+                <p>"I don't think I should be far
+wrong," he began, but I hustled him
+through to the end of his sentence.</p>
+                <p>"Finest collection in—?" I asked.</p>
+                <p>"England," he said.</p>
+                <p>He went over their points, and in an
+expansive moment I marvelled. This
+was imprudent, as it caused him to
+search his mind for some further spectacular
+triumph wherewith to amaze
+and delight.</p>
+                <p>"That," he said, looking up the table,
+"is my wife."</p>
+                <p>"Marvellous," said I.</p>
+                <p>He took this in the best part. "You
+refer to her diamonds?" he said.</p>
+                <p>"Did I?" said I.</p>
+                <p>"The finest collection in Great
+Britain," he declared, and spread himself
+over the subject.</p>
+                <p>Later, in a mood of concession, he
+inquired as to my specialities. I had
+none, at least none that I could think
+of. Determined to extract something
+noteworthy, he questioned me on every
+possibility. Was I not married? That
+was so, I agreed, but then so many
+women are.</p>
+                <p>"You have sons, ma'am?" he persisted,
+with that implacable optimism to
+which, among other things, he no doubt
+owed his success in the world.</p>
+                <p>I thought of Baby. "Ah yes, of
+course," I said. "The finest collection
+in Europe."</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"'In Norway,' she says, 'we do not eat one-third
+the quantity that the English eat; our
+meals are simpler and shorter. I believe that
+this is the cause of the enormous amount of
+indigestion that is suffered by the English.'"</p>
+                    <p>
+                        <title>Daily News and Leader.</title>
+                    </p>
+                </quote>
+                <p>So our doctor, who attributed our indigestion
+to lobster mayonnaise, was
+wrong again.</p>
+                <pb xml:id="V147_9" n="9"/>
+            </div>
+            <div xml:id="d1e1216" type="prose">
+                <head>KINDNESS TO SUBJECTS.</head>
+                <p>[One of our illustrated papers recently published a picture of the King
+of <placeName>Spain</placeName> in a motor-car which had broken down. The car was
+being pushed along by some helpful people, and the comment on the
+picture was, "It is these thoughtful little acts that make royalty so
+popular nowadays." Lest it should be thought that the other potentates
+of Europe take less trouble to make themselves beloved by their
+subjects, we hasten to give a few instances which have come to our
+notice.]</p>
+                <figure>
+                    <graphic width="800px" url="images/009a.png"/>
+                    <p rend="sc">Last week the King of Cadonia had his hat blown off in the
+Blumengarten (the beautiful park near the Royal Palace). This kindly
+act should deepen the affectation in which the monarch is held by his people.</p>
+                </figure>
+                <figure>
+                    <graphic width="800px" url="images/009b.png"/>
+                    <p rend="sc">A few days ago the Crown Prince of
+	    Schlossrattenheim had an accident with his aeroplane,
+	    which overturned near Schutzmeer. Fortunately his Royal
+	    Highness fell on a retired Wuerst-haendler who was walking
+	    on the beach.</p>
+                    <p rend="sc">The Crown Prince's devotion to his beloved
+	    subjects is well known, and this tactful deed was only
+	    another instance of it.</p>
+                </figure>
+                <figure>
+                    <graphic width="800px" url="images/009c.png"/>
+                    <p rend="sc">Yesterday Prince Jophn of Pumpenhosen
+	    inadvertently collided with a pleasure-yacht at the mouth
+	    of the harbour of Krebs while trying a new motor boat. All
+	    the passengers were saved and the Prince showed no sign of
+	    fear.</p>
+                    <p rend="sc">This should enhance his great popularity,if
+	    such a thing were possible.</p>
+                </figure>
+                <figure>
+                    <graphic width="800px" url="images/009d.png"/>
+                    <p rend="sc">King Stephan III. of Servilia, while playing
+	    on the links at Niblisk last week, initiated one of his
+	    equerries into the humour of the game. By this thoughtful
+	    act his majesty adds to the deserved love and reverence in
+	    which he is held by the Servilians of all classes.</p>
+                </figure>
+            </div>
+            <pb xml:id="V147_10" n="10"/>
+            <div xml:id="d1e1267" type="cartoon">
+                <figure>
+                    <graphic width="800px" url="images/010.png"/>
+                    <p>Alan (to his mother, who is busy with a heavy house-cleaning). "Please, Mother, read me a story."</p>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e1280" type="verse">
+                <head>THE WALKERS.</head>
+                <lg>
+                    <l>There were eight pretty walkers who went up a hill;</l>
+                    <l>They were Jessamine, Joseph and Japhet and Jill,</l>
+                    <l>And Allie and Sally and Tumbledown Bill,</l>
+                    <l rend="i10">And Farnaby Fullerton Rigby.</l>
+                </lg>
+                <lg>
+                    <l>They were all in good training and all of them keen,</l>
+                    <l>And their chief wore a coat and a waistcoat of green;</l>
+                    <l>He was always a proud man and kept himself clean,</l>
+                    <l>Did Farnaby Fullerton Rigby.</l>
+                </lg>
+                <lg>
+                    <l>They intended to lunch when they got to the top</l>
+                    <l>On a sandwich apiece and a biscuit and chop.</l>
+                    <l>The provisions were carefully bought in a shop</l>
+                    <l rend="i10">By Farnaby Fullerton Rigby.</l>
+                </lg>
+                <lg>
+                    <l>They were jesters of merit—the sort who can poke</l>
+                    <l>Funny tales in your ribs till you splutter and choke;</l>
+                    <l>But the best of the lot at a jibe or a joke</l>
+                    <l rend="i10">Was Farnaby Fullerton Rigby.</l>
+                </lg>
+                <lg>
+                    <l>It was ten of the clock when the walking began,</l>
+                    <l>And they started with Tumbledown Bill in the van;</l>
+                    <l>And the rear was brought up by that excellent man,</l>
+                    <l rend="i10">By Farnaby Fullerton Rigby.</l>
+                </lg>
+                <lg>
+                    <l>They went off at a pace I am bound to deplore,</l>
+                    <l>For they did twenty yards in a minute or more</l>
+                    <l>And a yard or two over, a capital score</l>
+                    <l rend="i10">For Farnaby Fullerton Rigby.</l>
+                </lg>
+                <lg>
+                    <l>They had all that pedestrians fairly can ask:</l>
+                    <l>Smooth roads, sunny weather and beer in a cask,</l>
+                    <l>And a friend who could teach them to stick to their task,</l>
+                    <l rend="i10">Viz.: Farnaby Fullerton Rigby.</l>
+                </lg>
+                <lg>
+                    <l>Yet I somehow suppose that they hadn't the knack,</l>
+                    <l>For in spite of it all they have never come back,</l>
+                    <l>And I own that the future looks dismally black</l>
+                    <l rend="i10">For Farnaby Fullerton Rigby.</l>
+                </lg>
+                <lg>
+                    <l>Now the walkers who seem to be stuck on the hill,</l>
+                    <l>They are Jessamine, Joseph and Japhet and Jill,</l>
+                    <l>And Allie and Sally and Tumbledown Bill,</l>
+                    <l rend="i10">And Farnaby Fullerton Rigby.</l>
+                </lg>
+                <signed>R.C.L.</signed>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e1426" type="snippets">
+                <head>King Peter of Servia.</head>
+                <p>(From <title>The Daily Mirror</title>.)</p>
+                <quote>
+                    <p>
+"The proclamation, however, as given in a later message, reads
+thus:—To My Beloved People: As I shall be prevented by illness
+from exercising my royal power for some time, I order, by Article
+69 of the Constitution, that so long as my cure lasts the Crown
+Prince Alexander shall govern in my name. On this occasion I
+recommend my dear fatherland to the care of the Almighty.</p>
+                    <p>(Signed) <name rend="sc">Peter</name>."
+</p>
+                </quote>
+                <p>"On this occasion" is perhaps a little invidious.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>Two consecutive books in <title>The Western Daily Press</title> list
+of publications received:—</p>
+                <p>"<title>Ring Strategy and Tactics.</title>
+                </p>
+                <p>
+                    <title>Charles Dickens in Chancery</title>."</p>
+                <p>The boxing boom continues.</p>
+            </div>
+            <pb xml:id="V147_11" n="11"/>
+            <div xml:id="d1e1479" type="cartoon">
+                <figure>
+                    <head>THE EMERGENCY EXIT.</head>
+                    <graphic width="800px" url="images/011.png"/>
+                    <p>Scene—A Tight Place.</p>
+                    <p>Child Herbert (to "Wicked Baron"). <said>"MY LORD, I HAVE EVER REGARDED YOU AS A PESTILENT VILLAIN—NAY WORSE, AN HEREDITARY IMBECILE. I THEREFORE RELY ON YOUR BENEFICENT WISDOM TO FIND ME A WAY OUT OF THIS SINISTER WOOD."</said>
+                    </p>
+                </figure>
+            </div>
+            <pb xml:id="V147_13" n="13"/>
+            <div xml:id="d1e1500" type="review">
+                <head>ESSENCE OF PARLIAMENT.</head>
+                <head rend="sc">(Extracted from the Diary of Toby, M.P.)</head>
+                <p>
+                    <hi rend="it">House of Commons, Monday, June 22.</hi>—Great
+muster of forces on both sides.
+Not wholly explained by second reading
+of Budget Bill standing as first
+Order. A section of Ministerialists,
+purists in finance, took exception to
+proposed procedure. <name rend="sc">Holt</name>, spokesman
+at mouth of new Cave, put down
+amendment challenging <name rend="sc">Chancellor
+of Exchequer's</name> proposals. Here was
+chance for watchful Opposition. If
+some thirty Ministerialists would go
+with them into Lobby it would not
+quite suffice to turn out Ministry; but it
+would be better than a Snap Division,
+with its personal inconvenience of
+preliminary hiding in bath-rooms and
+underground cellars.</p>
+                <p>
+                    <figure>
+                        <graphic width="800px" url="images/013a.png"/>
+                        <p>
+                            <hi rend="it">Wicket-keeper (Mr. CASSEL).</hi> "How's that?"</p>
+                        <p>
+                            <hi rend="it">Umpire (Mr. SPEAKER).</hi> "Out!"</p>
+                        <p>
+                            <hi rend="it">Batsman (Mr. LLOYD GEORGE).</hi> "Rotten antiquated
+rule!"</p>
+                        <p>["I did not expect ... that hon. members would go rummaging in the
+dustbins of ancient precedent to find obstacles to place in the way
+of these proposals." — <hi rend="it">Mr. LLOYD GEORGE on his Budget</hi>.]</p>
+                    </figure>
+                    <name rend="sc">Cassel</name>, adding to Parliamentary
+reputation studiously attained, raised
+subject on point of order. Underlying
+suggestion was that Budget Bill should
+be withdrawn and reintroduced under
+amended form of procedure. <name rend="sc">Speaker</name>,
+whilst admitting irregularity, stopped
+short of approving extreme course.
+Pointed out that the matter might be
+put right by moving fresh resolutions.</p>
+                <p>This disappointing. Worse to follow.
+The <name rend="sc">Infant Samuel</name>, making fresh
+appearance in new part of understudy
+of <name rend="sc">Chancellor of Exchequer</name>, conceded
+point of procedure made by
+Radical Cave. Promised objection should
+be fully met. <name rend="sc">Holt</name>, amid ironical
+cheers from Opposition, said in these
+circumstances would not move amendment.
+Incident reminded <name rend="sc">Walter
+Long</name> of story of the Colonel and the
+opossum up a tree.</p>
+                <p>"Don't shoot!" said the Opossum;
+"I'll come down."</p>
+                <p>
+                    <name rend="sc">Chancellor of the Exchequer</name> had
+come down. No need for Colonel <name rend="sc">Holt</name>
+to discharge his gun.</p>
+                <p>Thus threatened crisis blew over.
+Members, cheered by promise of reduction
+by one half of proposed increase
+in Income Tax, got away early to
+attend various functions in honour of
+<name rend="sc">King's</name> birthday.</p>
+                <p>
+                    <hi rend="it">Business done.</hi>—Second reading of
+Budget Bill moved.</p>
+                <p>
+                    <hi rend="it">House of Lords, Tuesday.</hi>—<placeName>London</placeName>
+season in full fling. May be said to
+reach dizziest height in this birthday
+week. Social engagements numerous
+and clashing. To-day House of Lords
+magnet of attraction of surpassing
+force. The thing for <foreign xml:lang="fr">grandes dames</foreign>
+to do is to go down to the House
+and be present at opening of fresh
+tourney round Home Rule Bill.
+Accordingly, the peeresses, alive to
+their responsibility as leaders of high
+thinking and simple living, flock down
+to Westminster, filling side-galleries
+with grace, beauty, and some finely
+feathered hats.</p>
+                <p>Seats on floor also crowded. Patriotic
+peers arriving late, finding no room on
+the benches where the Union Jack is
+kept flying, cross over. Temporarily
+seat themselves among the comparatively
+scanty flock of discredited
+Ministerialists. Bishops muster in
+exceptional number. Their rochets
+form wedge of spotless white thrust
+in centre of black-coated laity seated
+below Gangway on right of Woolsack.
+Space before Throne thronged with
+Privy Councillors availing themselves
+of the privilege their rank confers to
+come thus closely into contact with
+what is still an hereditary chamber.</p>
+                <figure>
+                    <graphic width="800px" url="images/013b.png"/>
+                    <p>"Bill presented to Lords as a sort of lay-figure which
+	    they may, in accordance with taste and conviction,
+	    suitably clothe."</p>
+                </figure>
+                <p>In centre of first row <name rend="sc">Carson</name> uplifts
+his tall figure and surveys a scene he
+has done much to make possible.</p>
+                <p>Perhaps in matter of dramatic interest
+the play did not quite come up to its
+superb setting. Principal parts taken
+by <name rend="sc">Crewe</name> and <name rend="sc">Lansdowne</name>. Neither
+accustomed to move House to spasms
+of enthusiasm. <name rend="sc">Leader of House</name>,
+introducing what is officially known as
+Government of Ireland Amending Bill,
+made it clear in such sentences as were
+fully audible that scheme does not go
+a step beyond overture towards settlement
+proffered by <name rend="sc">Premier</name> last March.</p>
+                <p>
+                    <name rend="sc">Lansdowne</name> expressed profound disappointment
+at this lack of enterprise.
+"Rather a shabby and undignified
+proceeding on the part of a strong
+Government," he said, "to come down
+with proposal they know to be wholly
+inadequate, and to hint that we ought
+to assist them in converting it into a
+practical and workable measure."</p>
+                <p>Actual condition of things could not
+with equal brevity be more clearly
+stated. Bill presented to Lords as
+sort of lay figure, which they may, in
+accordance with taste and conviction,
+suitably clothe. No assurance forthcoming
+that style and fit will be
+approved when submitted to House of
+Commons, final arbiters.</p>
+                <p>Meanwhile Bill read a first time, and
+ordered to be printed.</p>
+                <pb xml:id="V147_14" n="14"/>
+                <p>
+                    <hi rend="it">Business done.</hi>—The Commons still
+harping on the Budget. <name rend="sc">Tim Healy</name>
+enlivened proceedings by vigorous personal
+attack on "the most reckless and
+incapable <name rend="sc">Chancellor of the Exchequer</name>
+that ever sat on the Treasury
+Bench." <name rend="sc">Lloyd George's</name> retort courteous
+looked forward to with interest.</p>
+                <p>
+                    <hi rend="it">House of Commons, Wednesday.</hi>—When,
+shortly after half-past five, <name rend="sc">Chancellor
+Of Exchequer</name> rose to take
+part in debate on new development of
+Budget Bill, House nearly empty. Interests
+at stake enormous. Situation
+enlivened for Opposition by quandary
+of Government. But afternoon is hot,
+and from the silver Thames cool air
+blows over Terrace. Accordingly thither
+Members repair, leaving House to
+solitude and <name rend="sc">Chiozza Money</name>.</p>
+                <p>Benches rapidly filled when news went round that <name rend="sc">Chancellor</name> was on his legs. Soon there was
+         crowded audience. Sound of cheering and counter-cheering,
+         applausive and derisive, frequently broke forth. <name rend="sc">Chancellor</name> in fine fighting
+         form. Malcontents in his own camp are reconciled. Hereditary
+         foe in front. Went for him accordingly.  <name rend="sc">Walter Long</name> seated immediately opposite
+         conveniently served as suitable target for whirling
+         lance. Effectively quoted from speeches made by him at other
+         times, insisting upon relief of the rate so heavily burdoned
+         as to make it impossible to carry out social reforms of
+         imperative necessity.</p>
+                <p>"After these lavish professions of
+anxiety to help local authorities, I did
+not," said the <name rend="sc">Chancellor</name>, "expect
+the right hon. gentleman and his friends
+would go rummaging in the dustbins of
+ancient precedent, to find obstacles to
+place in the way of proposals of
+reform."</p>
+                <p>Carried away by his own eloquence,
+the <name rend="sc">Chancellor</name>, whilst sarcastically
+complimentary to <name rend="sc">Walter Long</name>, went
+so far as to call him "The Father of
+Form IV." The putative parent
+blushed. There were cries of "Order!"
+and "Withdraw!" <name rend="sc">Speaker</name> did not
+interpose, and <name rend="sc">Chancellor</name> hurried on
+to another point of his argument.</p>
+                <p>Quite a long time since our old
+friend Form IV., at one time a familiar
+impulse to party vituperation, was
+mentioned in debate. This unexpected
+disclosure of its paternity made quite
+a stir.</p>
+                <p>
+                    <name rend="sc">Son Austen</name> followed <name rend="sc">Chancellor</name>
+in brisk speech that led to one or two
+interludes of angry interruption across
+the Table. When he made an end of
+speaking, debate relapsed into former
+condition of languor. Talk dully kept
+up till half-past eleven.</p>
+                <p>
+                    <hi rend="it">Business done.</hi>—Further debate on
+Budget.</p>
+                <p>
+                    <hi rend="it">Thursday.</hi>—<name rend="sc">Chancellor of Exchequer</name>
+admittedly allured by what
+he describes as "attractive features" of
+proposal to raise fresh revenue. It is
+simply the levying of a special tax on
+all persons using titles.</p>
+                <p>Idea not absolutely new. Principle
+established in case of citizens displaying
+crest or coat-of-arms. What is novel is
+suggested method of taxation. Differing
+from the dog-tax, levied at a common
+rate, it is proposed that our old nobility
+shall, in this fresh recognition of
+their lofty estate, be dealt with on a
+sliding scale. A duke will have his
+pre-eminence recognised by an exceptionally
+high rate of taxation. Marquises,
+earls and a' that will be mulct
+on a descending scale, till the lowly
+knight is reached. He will be compensated
+for comparative obscurity in the
+glittering throng by being let off for a
+nominal sum.</p>
+                <p>
+                    <name rend="sc">Chancellor</name> fears it is too late to
+adopt proposal this year, a way of
+putting it which seems to suggest that
+we may hear more of it in next
+year's Budget.</p>
+                <p>
+                    <hi rend="it">Business done.</hi>—<name rend="sc">Hayes Fisher's</name>
+Amendment to Budget Bill negatived
+by 303 votes to 265. Reduction of
+Ministerial majority to 38 hailed with
+boisterous burst of cheers and counter-cheers.</p>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e1764" type="cartoon">
+                <figure>
+                    <graphic width="800px" url="images/014.png"/>
+                    <head>Garden City Washing-day.</head>
+                    <head>Our sensitive artist insists on a harmonious
+	    colour-scheme.</head>
+                    <figDesc>A bearded man sits in a deckchair and wags his
+	    finger at a woman hanging up washing</figDesc>
+                </figure>
+            </div>
+            <div xml:id="d1e1781" type="snippets">
+                <milestone rend="hr" unit="rule"/>
+                <p>The <name rend="sc">Lord Mayor</name> (on hearing a certain
+<name rend="sc">Peel</name>): "Turn again (in your
+grave), <name rend="sc">whittington</name>."</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>New song for old Cantabs.:—</p>
+                <p>"O. B., what can the maté be?"</p>
+            </div>
+            <div xml:id="d1e1806" type="review">
+                <head rend="it">RUS IN URBE.</head>
+                <p>No, this is not the Russian ballet.
+It is the English Folk Dance Society,
+and their performances at the Royal
+Horticultural Hall at Westminster the
+other day showed that the Russian
+ballet is not to have things all its own
+way. I am not going to moralise upon
+the salacious quality of some of the
+themes of our exotic visitors, but
+certainly it would be difficult to find a
+stronger contrast to their ruling passion
+than is presented by the purity and
+simplicity of these country dances.</p>
+                <p>"Sellinger's Bound," danced to an
+air that lulled <title>Titania</title> to sleep all
+through the winter at the Savoy, was
+the most popular, with its ring of a
+dozen dancers, hands joined, running
+together into the centre of their circle,
+as if to honour some imaginary deity—possibly
+<persName>Mr. <name rend="sc">Cecil
+Sharp</name>
+                    </persName>, director of the
+Society, who has collected
+and revived the
+airs to which they dance.</p>
+                <p>Then there were the Morris-dances, "Shepherd's Hey" (with nothing
+about a "nonny-nonny" in it), and "Haste to the Wedding."  There might
+perhaps be a greater propriety in the latter if it were confined to
+men; but at least it raised no apprehension that anybody was going to
+"repent at leisure."  In the "Flamborough Sword" dance, the men (with
+no Amazon assistance) raced through the figure and out again, eight of
+them, armed with bloodless wooden swords—a finely ordered riot.</p>
+                <p>"Lady's Pleasure," a Morris-jig for two men, lays hold of you at
+the first bar, and again with a fresh grip and a tighter as the music
+slows up for the dancers to do their "capers"—all to the music of
+<persName>Mr. <name rend="sc">Cecil Sharp</name>
+                    </persName> at the
+piano and <persName>Miss <name rend="sc">Avril</name>
+                    </persName> at
+the fiddle.</p>
+                <p>The object of The English Folk
+Dance Society is to teach rather than
+to perform in public. Hence the rarity
+of their displays, and the better reason
+why we should seize, when they come,
+our chances of assisting at these
+delightful exhibitions of an art whose
+revival has done so much to restore to
+the countryside the unpretentious joys
+that gave its name to Merrie England.</p>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e1848" type="snippet">
+                <p>
+                    <quote>
+"It was the time when Henry III. was
+batting with Simon de Montfort and his
+Barons"—<title>Straits Times.</title>
+                    </quote>
+                </p>
+                <p>But not at Lord's, which has only just
+celebrated its centenary.</p>
+            </div>
+            <pb xml:id="V147_15" n="15"/>
+            <div xml:id="d1e1864" type="cartoon">
+                <figure>
+                    <head>GREAT ECONOMY EFFECTED BY CO-OPERATION IN ADVERTISEMENT.</head>
+                    <graphic width="800px" url="images/015.png"/>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e1877" type="prose">
+                <head>THE MILITANTS' TARIFF.</head>
+                <p rend="right">
+                    <hi rend="it">Etna Lodge, W.</hi>
+                </p>
+                <p>Mrs. Bangham Smasher, having entered into partnership
+              with the Misses Burnham Blazer, as General Agents of
+              Desctruction, begs to inform the public that the firm will
+              be prepare to execute commissions of all kinds, at the 
+              shortest notice, on the very moderate terms given below : --
+          </p>
+                <table>
+                    <row role="label">
+                        <cell/>
+                        <cell>£</cell>
+                        <cell>s.</cell>
+                        <cell>d.</cell>
+                    </row>
+                    <row>
+                        <cell>For breaking windows, per window ...</cell>
+                        <cell>0</cell>
+                        <cell>7</cell>
+                        <cell>6</cell>
+                    </row>
+                    <row>
+                        <cell>For howling, kicking, or biting during service
+                  in church, per howl, kick, or bite ...</cell>
+                        <cell>0</cell>
+                        <cell>10</cell>
+                        <cell>6</cell>
+                    </row>
+                    <row>
+                        <cell>For sitting on doorsteps of obnoxious persons,
+                  per hour, if fine ...</cell>
+                        <cell>0</cell>
+                        <cell>15</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For sitting on doorsteps of obnoxious persons,
+                  per hour, if wet ...</cell>
+                        <cell>1</cell>
+                        <cell>1</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For damaging golf greens, per green ...</cell>
+                        <cell>1</cell>
+                        <cell>11</cell>
+                        <cell>6</cell>
+                    </row>
+                    <row>
+                        <cell>For throwing shoes at magistrates in court,
+                  according to size and wieght of shoe,
+                  from ...</cell>
+                        <cell>2</cell>
+                        <cell>2</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For beating officials connected with gaols ...</cell>
+                        <cell>3</cell>
+                        <cell>3</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For slashing and hacking valuable pictures,
+                  from ...</cell>
+                        <cell>7</cell>
+                        <cell>7</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For bombs not intended to explode ...</cell>
+                        <cell>8</cell>
+                        <cell>8</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For burning down a house, according to value
+                  and social position of owner, from ...</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For insulting exalted Personages, per insult ...</cell>
+                        <cell>10</cell>
+                        <cell>10</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For burning down a modern red-brick 
+                  church ...</cell>
+                        <cell>15</cell>
+                        <cell>15</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For burning down a specially valuable and
+                  interesting ancient one (eleventh and 
+                  twelfth centures extra)</cell>
+                        <cell>21</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For bombs warranted to destroy an ordinary
+                  church ...</cell>
+                        <cell>30</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                    </row>
+                    <row>
+                        <cell>For bombs suited to wreck really superior
+                  buildings, such as Westminster Abbery
+                  and St. Paul's</cell>
+                        <cell>50</cell>
+                        <cell>0</cell>
+                        <cell>0</cell>
+                    </row>
+                    <cb/>
+                    <row>
+                        <cell>For disturbing public meetings and the
+                  general harassing and annoyance of all
+                  peaceable and decent people ...</cell>
+                        <cell cols="3">No Charge</cell>
+                    </row>
+                </table>
+                <p>Bangham Smasher, Burnham Blazer &amp; Co. beg to assure 
+          their patrons that all the choppers, hammers, bombs, 
+          stones, etc., employed in their business are of the very 
+          best quality, and only refined paraffin and wax matches
+          will be used in burning down any building.</p>
+                <p>Being in a position to offer such exceptional advantages
+          they trust to receive a large measure of support in their
+          elevating and enlightening work.</p>
+                <p>If none of the above is found suitable to the needs of
+          intending clients, a further list of assorted outrages will be
+          supplied on application</p>
+            </div>
+            <milestone rend="hr" unit="rule"/>
+            <div xml:id="d1e2158" type="verse">
+                <head>LOVE'S LOGIC.</head>
+                <lg>
+                    <l>My happiness is in another's keeping,</l>
+                    <l rend="i2">My heart delivered to a maiden's care,</l>
+                    <l>And she can cast it down or set it leaping</l>
+                    <l rend="i2">(The latter process is extremely rare);</l>
+                    <l>Ah, would that love indeed had made me blind,</l>
+                    <l>That I might put her image out of mind!</l>
+                </lg>
+                <lg>
+                    <l>Yet if I looked at her with eyes unseeing</l>
+                    <l rend="i2">Her voice and laughter would not pass unheard;</l>
+                    <l>I should not be a reasonable being,</l>
+                    <l rend="i2">I still should tremble at her lightest word;</l>
+                    <l>How could I then gain freedom from the spell</l>
+                    <l>Unless I turned completely deaf as well?</l>
+                </lg>
+                <lg>
+                    <l>So, blind and deaf, I might perhaps recover</l>
+                    <l rend="i2">A partial peace of mind, but all in vain,</l>
+                    <l>For memories pursue the luckless lover,</l>
+                    <l rend="i2">And only death can ease him of his pain.</l>
+                    <l>Thus, having proved that I were better dead,</l>
+                    <l>I think I'll go and talk to her instead.</l>
+                </lg>
+            </div>
+            <pb xml:id="V147_16" n="16"/>
+            <div xml:id="d1e2232" type="prose">
+                <head>BALM FOR THE BRAINLESS.</head>
+                <quote>
+                    <p>
+["If one man has more brains than another,
+which enable him to outstrip his fellows, is
+not that good fortune? What had he got to
+do with it? If your brain is a bad one, it is
+not your responsibility. If your brain is a
+good one it is not your merit. Some men
+have greater physical, mental, moral strength
+than others that enables them to win in the
+race. That is their good fortune and they
+ought to be grateful for it; and the one way
+they can best show their gratitude is by
+helping those who are less fortunate than
+themselves. Men endowed with any, or most,
+or all of these fortunate conditions ought not
+to be stingy in helping others who have not
+been so fortunate as themselves."—<persName>Mr. 
+<name rend="sc">Lloyd George</name>
+                        </persName> at Denmark Hill, June 30.]
+</p>
+                </quote>
+                <p>As a result of <persName>Mr. <name rend="sc">Lloyd George</name>'s</persName>
+vivid and convincing pronouncement
+on the responsibilities of the fortunate,
+we have been deluged with appeals
+from all sorts and conditions of unlucky
+correspondents. We select the following
+from among the most deserving
+cases in the hope that our opulent
+readers may avail themselves of the
+chances thus offered of redressing the
+partiality of fortune.</p>
+
+            <!-- following should all be tagged as letters ... -->
+                <p>
+                    <title>The Cry of the Cracksman.</title>
+                </p>
+                <p>
+                    <title>The Sanctuary, Crookhaven.</title>
+                </p>
+                <p>
+                    <hi rend="sc">Sir</hi>,—Endowed by nature with an
+            imperfect moral sense and a complete inability to
+            discriminate between <foreign xml:lang="lat">meum</foreign> and <foreign xml:lang="lat">tuum</foreign>, I was irresistibly impelled
+            at an early age to adopt the precarious profession of
+            housebreaker. I have just served a sentence of three
+            years, and was on the point of resuming my career when I
+            read <persName>Mr. <name rend="sc">Lloyd George's</name>
+                    </persName>
+            epoch-making speech at Denmark Hill, in which he clearly
+            defines the duty of the State to redress the inequalities
+            of moral as well as material endowment by which so large a
+            proportion of the community is penalised. I am the master
+            of a fine literary style and admirably suited to discharge
+            any secretarial duties, but it is only right that I should
+            clearly explain at the outset that it is no use offering
+            me any post unless it is so well salaried that I should
+            never feel it was worth while to explore or appropriate
+            the contents of my employer's safe.</p>
+                <p>Respectfully yours,</p>
+                <p>
+                    <name rend="sc">Raphael Bunny</name>.</p>
+                <p>
+                    <title>The Luck of the Law</title>.</p>
+                <p>
+                    <title>Railway Carriage Bungalow,</title>
+                </p>
+                <p>
+                    <title>Shoreham, Sussex.</title>
+                </p>
+                <p>
+                    <hi rend="sc">Sir</hi>,—It is precisely thirty years
+since I was called to the Bar, and
+several of my contemporaries have
+already been elevated to the Bench,
+while Sir <name rend="sc">John Simon</name>, who is considerably
+my junior, is in the receipt of a
+salary probably double that drawn by
+an ordinary Judge. My earnings for
+the last ten years have exempted me
+from income-tax, but this is but a poor
+consolation when I consider that were
+it not for the caprice of fortune I should
+probably be returning £400 or £500 a
+year to the Exchequer in super-tax.
+But not only have I been badly treated
+in regard to mental equipment; I have
+been further handicapped by hereditary
+conscientious objection to pay any bills.
+An annuity of £500 a year, or only one-tenth
+of the salary of a Judge, is the
+minimum that my self-respect will
+allow me to accept in payment of the
+State's long-standing debt to</p>
+                <p>Yours faithfully,</p>
+                <p>
+                    <name rend="sc">William Weir</name>.</p>
+                <p>
+                    <title>The Cruelty of Competition.</title>
+                </p>
+                <p>
+                    <hi rend="sc">Sir</hi>,—I confidently appeal for your
+support in the application for a grant
+which I am forwarding to the <name rend="sc">Prime
+Minister</name>. My son, aged 14, has failed
+to win an entrance scholarship at Winchester
+and Charterhouse, not from
+any fault of his own, but simply owing
+to the unfair competition of other candidates
+more liberally endowed with
+brains. At a modest estimate I calculate
+that the extra drain on my resources
+for the next eight years in
+consequence of this undeserved hardship
+will amount to at least £600, which
+I can ill afford owing to unfortunate
+speculations in Patagonian ruby mines—another
+example of that bad luck
+which, in the noble words of the <name rend="sc">Chancellor
+Of the Exchequer</name>, it is the
+privilege of the prosperous to remedy.</p>
+                <p>I am, Sir, yours expectantly,</p>
+                <p>(Rev.) <name rend="sc">J. Stonor Brooke.</name>
+                </p>
+                <p>
+                    <title>Vis inertiæ</title>
+                </p>
+                <p>
+                    <title>Lotus Lodge, Limpsfield.</title>
+                </p>
+                <p>
+                    <hi rend="sc">Sir</hi>,—A victim since birth to congenital
+lassitude, which has rendered all
+labour, whether manual or mental, distasteful,
+nay, intolerable to me, I find
+myself at the age of 41 so out of touch
+with the spirit of strenuous effort which
+has invaded every corner of our national
+life that I am anxious to confer on the
+State or, failing that, some meritorious
+millionaire the privilege of providing
+for my modest needs. A snug sinecure
+with a commodious residence and a
+good car—cheap American motors are
+of course barred—represent the indispensable
+minimum.</p>
+                <p>I am, Sir, yours faithfully,</p>
+                <p>
+                    <name rend="sc">Everleigh Slack</name>.</p>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e2386" type="snippets">
+                <p>Some day, says the President of the
+Aero Club, we shall be able to go into
+a shop and buy a pair of wings. But
+we can do that already; the only difficulty
+is to fly with them.</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"Gentleman, middle aged, would be glad
+of a few correspondents (40 to 60)."</p>
+                    <p>
+                        <title>T. P.'s Weekly.</title>
+                    </p>
+                </quote>
+                <p>Too Many.</p>
+            </div>
+            <div xml:id="d1e2409" type="verse">
+                <head>THE SILENT CHARMER.</head>
+                <p>
+[Speaking of flowers a contemporary recently
+remarked:—"These careless-looking creatures
+filling the air with delight, robbing tired brains
+of tiredness, are a delicate texture of coloured
+effort that has prevailed out of a thousand
+chances, aided in all that effort by man.
+Without man they would be but weeds—a
+profusion of Nature's quantity."]
+</p>
+                <lg>
+                    <l>My dearest Thomas, I would not</l>
+                    <l rend="i2">Deny the fact that you are clever;</l>
+                    <l>You've taught Dame Nature what is what</l>
+                    <l rend="i2">At horticultural endeavour</l>
+                    <l>(She has not got that useful thing,</l>
+                    <l>The shilling book of gardening).</l>
+                </lg>
+                <lg>
+                    <l>She has her merits, but, of course,</l>
+                    <l rend="i2">Her wild attempts won't stand comparing</l>
+                    <l>With such a floral <foreign xml:lang="fr">tour de force</foreign>
+                    </l>
+                    <l rend="i2">As that geranium you are wearing;</l>
+                    <l>Yon chosen emblem of your skill</l>
+                    <l>Must surely make her wilder still.</l>
+                </lg>
+                <lg>
+                    <l>But give me Nature; when we meet</l>
+                    <l rend="i2">She does not prattle of her posies,</l>
+                    <l>Dull facts of what begonias eat,</l>
+                    <l rend="i2">The dietetic fads of roses,</l>
+                    <l>And how she strove with spade and spud.</l>
+                    <l>Or nipped the green fly on the bud.</l>
+                </lg>
+                <lg>
+                    <l>'Tis she that really soothes the brain,</l>
+                    <l rend="i2">Spreading her weeds in bright profusion,</l>
+                    <l>And never troubling to explain</l>
+                    <l rend="i2">How much they owe to her collusion,</l>
+                    <l>While, Thomas, <hi rend="it">your</hi> achievements seem</l>
+                    <l>To be your one and only theme.</l>
+                </lg>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e2514" type="snippets">
+                <p>
+                    <persName>Mr. <name rend="sc">J. C. Parke</name>
+                    </persName>, writing in <title>The
+Strand Magazine</title> on the best way to
+beat <name rend="sc">Wilding</name>, says:—</p>
+                <quote>
+                    <p>
+"Personally, after close observation and
+from playing against him, I would suggest a
+determined attack on the champion's forehead
+from the base-line."
+</p>
+                </quote>
+                <p>That ought to learn him.</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"His Majesty has been pleased to confer
+the dignity of an Earldom of the United
+Kingdom upon Field-Marshal the Viscount
+Kitchener of Khartoum, P.G.C., B.O.M.G.C.,
+S.I.G.C.M., G.G.C.I.E."
+</p>
+                </quote>
+                <p>
+                    <title>Newcastle Daily Journal.</title>
+                </p>
+                <p>The old orders change, yielding place
+to new.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>From a magazine cover:—</p>
+                <quote>
+                    <p>
+"This magazine has been the turning point
+in many a man's career. Spend twopence
+and half-an-hour on it.... Price Threepence."
+</p>
+                </quote>
+                <p>We would rather pay the threepence.</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"In our report of the wedding of <persName>Mr. Lee
+Kwee Law</persName> to <persName>Miss Chan Siew Cheen</persName> we inadvertently
+left out the following, who also
+sent presents<title>:——"—Straits Echo.</title>
+                    </p>
+                </quote>
+                <p>And then they inadvertently left them
+out again.</p>
+            </div>
+            <pb xml:id="V147_17" n="17"/>
+            <div xml:id="d1e2595" type="prose">
+                <head>THE CURE FOR CRICKET.</head>
+                <p>There is no longer any doubt that
+golf is threatening the supremacy of
+our national game. Judged by the
+only true standard—the amount of
+space allotted to it in the daily press—it
+is manifest that the encroachments of
+this insidious pastime have now reached
+a point where the cricket reformer must
+bestir himself before it is too late. We
+are convinced that so far we have been
+taking much too narrow a view. The
+time has come to look for light and
+leading outside the confines of our own
+Book of Rules. There are other games
+besides cricket. Let us call them to
+our councils.</p>
+                <p>In the first place a valuable hint
+may surely be found in the development
+of Rugby football. It is common
+knowledge what immense results have
+followed the introduction, some twenty
+years ago, of the Four Three-quarter
+System. No spectator (and we cannot
+exist without the spectator) would ever
+dream now of returning to the old
+formation. Very well. The same
+principle can be easily adapted to our
+requirements in the form of the Three
+Batsmen System. The pitch would
+become an equilateral triangle, and we
+should suggest that the bowler have
+the option of bowling (from his own
+corner) at either of the two outlying
+batsmen (at theirs). Lots of interesting
+developments would follow, as, for
+instance, the institution of a sort of
+silly-point-short-mid-on in the centre
+of the triangle. (Should he be allowed
+to wear gloves?)</p>
+                <p>Golf has also a lesson to teach us.
+We are all familiar with the huge
+strides that have been made by the introduction
+of the rubber-cored ball.
+We don't want to plagiarize, although
+a rubber-cored cricket ball is a nice
+idea. Why not aim at the opposite
+extreme and try a ball "reinforced"
+with concrete? The tingling of the
+batsman's fingers which might result
+could be neutralised by the use of a
+rubber-faced bat. This reform would,
+we believe, have one happy consequence.
+People wouldn't be so keen
+to play with their legs.</p>
+                <p>As to lawn tennis—another dangerous
+rival—we hear a good deal in these
+days about "foot-faults." That seems
+to show the trend of modern thought.
+If we are to be in the swim we shall
+have to reconsider our no-ball rule.
+Why not make it a no-ball every time
+unless the bowler has both feet in the
+air at the moment when the ball leaves
+his hand? One might put up a little
+hurdle—nothing obtrusive—only a
+matter of a few inches high.</p>
+                <p>We believe that something might
+even be done by borrowing from hockey
+the principle of the semi-circle, outside
+of which a goal may not be shot. The
+whole pitch might be enclosed in a
+circular crease—which would look uncommonly
+well in Press photographs.
+(We cannot exist without the Press.)
+No fielder inside the magic circle would
+be allowed to stop the ball with his
+feet.</p>
+                <p>Finally there is the case of billiards,
+not a game that is very closely allied
+to cricket, but one from which much
+may be learned. How has billiards
+brightened itself? By adopting the
+great principle of "barring" certain
+strokes. Here we have got on to something
+really valuable. We propose to
+go one better, and draw up a schedule
+of the different conditions of barring
+under which matches may be played.
+It will only remain for secretaries, when
+fixtures are made, to arrange the terms
+by negotiation. In time to come,
+should we be able to carry our point, we
+shall all be familiar with such announcements
+as the following:—</p>
+                <quote>
+                    <p>
+Notts. <hi>v.</hi> Surrey. (Cut-barred.)
+Gentlemen <hi>v.</hi> Players. (L.b.w.-barred.)
+England <hi>v.</hi> Australia. (Googly-and-yorker-barred.)
+</p>
+                </quote>
+                <p>We do not pretend to have exhausted
+the subject, but we have made a start.
+We must look about us. Something
+may be learned, we firmly believe, even
+from skittles and ping-pong. Our
+national game cannot afford to exclude
+special features. It should have the
+best of everything.</p>
+            </div>
+            <div xml:id="d1e2637" type="cartoon">
+                <figure>
+                    <graphic width="800px" url="images/017.png"/>
+                    <p>
+                        <said>"Are you <persName>Mrs. Pilkington-Haycock</persName>?"</said>
+                    </p>
+                    <p>
+                        <said>"No."</said>
+                    </p>
+                    <p>
+                        <said>"Well, I am, and this is her pew."</said>
+                    </p>
+                </figure>
+            </div>
+            <div xml:id="d1e2660" type="snippet">
+                <milestone rend="hr" unit="rule"/>
+                <head>Professional Candour.</head>
+                <quote>
+                    <p>
+"The sermon over, a collection was taken,
+and hardly a person present did not contribute.
+Mgr. Benson's sermon went to the hardest
+heart there. Even the journalists contributed."</p>
+                </quote>
+                <p>
+                    <title>The Universe.</title>
+                </p>
+            </div>
+            <pb xml:id="V147_18" n="18"/>
+            <div xml:id="d1e2682" type="prose">
+                <head>THE HERE, THERE AND LONDON LETTER.</head>
+                <p>            With apologies to "The Westminster Gazette."
+         </p>
+                <div type="snippet" xml:id="d1e2689">
+                    <head>The Home of the South Saxons</head>
+                    <p>Sussex, the county for which <persName>Mr.
+<name rend="sc">C. B. Fry</name>
+                        </persName> (who hurt his leg in the
+Lord's centenary match) used to play
+before he moved to Hampshire, is an
+attractive division of the country to
+the south of <placeName>London</placeName> with a long sea
+border. <persName>Mr. <name rend="sc">Kipling</name>
+                        </persName> has praised it in
+some memorable verses, and among
+frequent visitors to its principal town,
+Brighton, is the <name rend="sc">Chancellor of the
+Exchequer</name>. The word Sussex is a
+contraction of South Saxon. All will
+wish the old Oxonian a speedy recovery
+from his strain.</p>
+                </div>
+                <div type="snippet" xml:id="d1e2714">
+                    <head>A Monetary Proverb.</head>
+                    <p>The origin of the old saying, "Penny
+wise, pound foolish," which has come
+into vogue again in connection with
+the revised income tax—for who can
+deny that the saving of the penny is
+wise?—is lost in obscurity; but there is
+no doubt that it is very ancient. Many
+nations have the same proverb in
+different terms as applied to their own
+currency. In France the coins to which
+the saying best applies would be the
+sou and the louis; in America, the
+cent and the dollar; and so forth.</p>
+                </div>
+                <div type="snippet" xml:id="d1e2723">
+                    <head>Cordiality before Party</head>
+                    <p>The circumstance of <persName>Mr. <name rend="sc">Lulu Harcourt</name>'s</persName>
+unveiling a memorial to <persName>Mr.
+<name rend="sc">Joseph Chamberlain</name>
+                        </persName> and <persName>Mr. <name rend="sc">Austen
+Chamberlain</name>
+                        </persName> at the <placeName>Albert Dock Hospital</placeName>
+is not without precedent. On
+more than one occasion party differences
+have been similarly forgotten.
+Thus several golf-players contributed
+to <title>The Daily Telegraph</title> shilling fund
+in honour of the great <name rend="sc">W. G. Grace</name>
+some few years ago. Such sinking of
+private shibboleths is a very excellent
+thing and goes far to show how
+thoroughly sound and healthy English
+public life really is <foreign xml:lang="fr">au fond</foreign>.</p>
+                </div>
+                <div type="snippet" xml:id="d1e2761">
+                    <head>The Names of Colleges</head>
+                    <p>Exeter College, Oxford, which has
+just celebrated its six hundredth anniversary,
+is not the only college which
+bears the same name as that of a city.
+Pembroke is another. Keble is, of
+course, named after the hymn-writer
+and divine; and Balliol, where C. S. C.
+played the wag so divertingly, after Balliol.
+<title>À propos</title> of Oxford, it is a question
+whether that extremely amusing book,
+<title>Verdant Green</title>, is still much read by
+freshers.</p>
+                </div>
+                <div type="snippet" xml:id="d1e2777">
+                    <head>The Author of <title>The Little
+Minister.</title>
+                    </head>
+                    <p>Sir <name rend="sc">James Barrie</name>, who is said to
+have written a revue for production this
+autumn at a West-End Theatre, must
+not be confounded with the French
+sculptor, <name rend="sc">Barye</name>, in spite of the similarity
+of name. <name rend="sc">Barye</name> is famous
+chiefly for his bronzes of lions; and fortunately,
+in making his studies of these
+dangerous animals, he escaped the fate
+which so often befalls the trainer of
+wild beasts whose animals suddenly
+turn upon him.</p>
+                </div>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e2801" type="prose">
+                <head>ONCE UPON A TIME.<lb/>The Alien.</head>
+                <p>Once upon a time a poet was sitting
+at his desk in his cottage near the
+woods, trying to write.</p>
+                <p>It was a hot summer day and great
+fat white clouds were sailing across the
+sky. He knew that he ought to be
+out, but still he sat on, pen in hand,
+trying to write.</p>
+                <p>Suddenly, among all the other sounds
+of busy urgent life that were filling the
+warm sweet air, he heard the new and
+unaccustomed song of a bird. At least
+not new and not unaccustomed, but new
+and unaccustomed there, in this sylvan
+retreat. The notes poured out, now
+shrill, now mellow, now bubbling like
+musical water, but always rich with
+the joy of life, the fulness of happiness.
+Where had he heard it before? What
+bird could it be?</p>
+                <p>Suddenly the poet's housekeeper hurried
+in. "Oh, Sir," she exclaimed,
+"isn't it a pity? Someone's canary
+has got free, and it's singing out here
+something beautiful."</p>
+                <p>"Of course," said the poet—"a
+canary;" and he hastened out to see
+it. But before he could get there the
+bird had flown to a clump of elms a
+little way off, from which proceeded
+sweeter and more tumultuously exultant
+song than they had ever known.</p>
+                <p>The poet walked to the elms with his
+field-glasses, and after a while he discerned
+among the million leaves, the
+little yellow bird, with its throat trembling
+with rapture.</p>
+                <p>But the poet and his housekeeper
+were not the only creatures who had
+heard the strange melody.</p>
+                <p>"I say," said one sparrow to another,
+"did you hear that?"</p>
+                <p>"What?" inquired the other sparrow,
+who was busy collecting food for a very
+greedy family.</p>
+                <p>"Why, listen," said the first sparrow.</p>
+                <p>"Bless my soul," said the second.
+"I never heard that before."</p>
+                <p>"That's a strange bird," said the
+first sparrow; "I've seen it. It's all
+yellow."</p>
+                <p>"All yellow?" said the other. "What
+awful cheek!"</p>
+                <p>"Yes, isn't it?" replied the first
+sparrow. "Can you understand what
+it says?"</p>
+                <p>"Not a note," said the second.
+"Another of those foreigners, I suppose.
+We shan't have a tree to call our
+own soon."</p>
+                <p>"That's so," said the first. "There's
+no end to them. Nightingales are bad
+enough, grumbling all night, and swallows,
+although there's not so many of
+them this year as usual; but when it
+comes to yellow birds—well."</p>
+                <p>"Hullo," said a passing tit, "what's
+the trouble now?"</p>
+                <p>"Listen," said the sparrows.</p>
+                <p>The tit was all attention for a minute
+while the gay triumphant song went on.</p>
+                <p>"Well," he said, "that's a rum go.
+That's new, that is. Novel, I call it.
+What is it?"</p>
+                <p>"It's a yellow foreigner," said the
+sparrows.</p>
+                <p>"What's to be done with it?" the
+tit asked.</p>
+                <p>"There's only one thing for self-respecting
+British birds to do," said
+the first sparrow. "Stop it. Teach
+it a lesson."</p>
+                <p>"Absolutely," said the tit. "I'll go
+and find some others."</p>
+                <p>"Yes, so will we," said the sparrows;
+and off they all flew, full of righteous
+purpose.</p>
+                <p>Meanwhile the canary sang on and
+on, and the poet at the foot of the tree
+listened with delight.</p>
+                <p>Suddenly, however, he was conscious
+of a new sound—a noisy chirping and
+harsh squeaking which seemed to fill
+the air, and a great cloud of small angry
+birds assailed the tree. For a while
+the uproar was immense, and the song
+ceased; and then, out of the heart of
+the tumult, pursued almost to the
+ground where the poet stood, fell the
+body of a little yellow bird, pecked to
+death by a thousand avenging furies.</p>
+                <p>Seeing the poet they made off in a
+pack, still shrilling and squawking, but
+conscious of the highest rectitude.</p>
+                <p>The poet picked up the poor mutilated
+body. It was still warm and it
+twitched a little, but never could its
+life and music return.</p>
+                <p>While he stood thoughtfully there an
+old woman, holding an open cage and
+followed by half-a-dozen children, hobbled
+along the path.</p>
+                <p>"My canary got away," she said.
+"Have you seen it? It flew in this
+direction."</p>
+                <p>"I'm afraid I have seen it," said the
+poet, and he opened his hand.</p>
+                <p>"My little pet!" said the old woman.
+"It sang so beautifully, and it used to
+feed from my fingers. My little pet."</p>
+                <p>The poet returned to his work. "'In
+tooth and claw,'" he muttered to himself,
+"'In tooth and claw.'"</p>
+            </div>
+            <pb xml:id="V147_19" n="19"/>
+            <div xml:id="d1e2918" type="cartoon">
+                <figure>
+                    <graphic width="800px" url="images/019.png"/>
+                    <head>How to utilise the art of "suggestion"</head>
+                    <p rend="sc">The Doctor, six down at the turn, "suggests" to his opponent that
+they are playing croquet, and wins by two and one.</p>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e2934" type="review">
+                <head>OUR BOOKING-OFFICE.</head>
+                <head rend="it">(By Mr. Punch's Staff of Learned Clerics.)</head>
+                <p>
+                    <title>Tents of a Night</title> (<name rend="sc">Smith, Elder</name>) is a quite ordinary story,
+about entirely commonplace persons, which has however
+an original twist in it. I never met a story that conveyed
+so vividly the nastiness of a summer holiday that isn't nice.
+The holiday was in Brittany, just the common round,
+Cherbourg, Coutances, Mont St. Michel, and the rest of it;
+and the holiday-makers were <persName>Mr. and Mrs. Hepburn</persName>, their
+niece <persName>Anne</persName>, and a rather pleasant flapper named <persName>Barbara</persName>
+whom they had taken in charge. <persName>Anne</persName> is the heroine and
+central character of the holiday; and certainly whatever
+discomforts it contained she seems to have done her successful
+best to add to. "This is a beastly place!" was her
+written comment upon St. Michel; and it was typical of her
+attitude throughout. Of course the real trouble with <title>Anne</title>
+was something deeper than drains or crowded hotels or the
+smell of too many omelettes: she was in love. Apparently
+she was more or less in love with two men, <persName>Dragotin Voinovich</persName>
+(whose name was a constant worry to <persName>Anne</persName>'s aunt,
+and I am bound to say that I share her feelings about it)
+and <persName>Jimmy Fordyce</persName>, a pleasant young Englishman who
+pulls the girls out of quicksands and makes himself
+generally agreeable. In the end, however—but on second
+thoughts the end, emotionally speaking, of <title>Anne</title> is just
+what I shall not tell you, as it is precisely the thing that
+redeems the book from being commonplace. This you will
+enjoy; and also those remarkably real descriptions of
+various plage-hotels in August, the noise, the crowds, the
+long hot meals, the sunshine and constant wind, the sand
+on the staircase, and the general atmosphere of wet bathing-gowns—all
+these are a luxurious delight to read about
+in a comfortable English room. <persName>Miss <name rend="sc">Mary Findlater</name>
+                    </persName>
+evidently knows them.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>Dippers who have given a new meaning to the classical
+motto, <foreign xml:lang="lat">Respice finem</foreign>, are so common amongst novel readers
+that <name rend="sc">Patricia Wentworth</name> will only have herself to thank
+if many who are unfamiliar with her work fail to do justice
+to a book nine-tenths of which is thoroughly interesting
+and excellently well-written. As a boy, the hero of <title>Simon
+Heriot</title> (<name rend="sc">Melrose</name>) is misunderstood, and although <persName>Mr.
+Martin</persName>, his step-father, is a somewhat stagey specimen of
+the heavy and vulgar papa, the child's emotions (as, for
+instance, when he pretends that the storm of his parent's
+wrath is the ordeal of the Inquisition or some far-away
+battle of paladins in which he is contending) are finely
+conceived, and many of the later passages in <name>Simon's</name> life—his
+unhappy love affair with <name>Maud Courtney</name>, his relations
+with his grandmother and with <name>William Forster</name>, the schoolmaster—are
+quite engrossing and give occasion for memorable
+sketches of character. It is when the natural end of
+the story is reached, and <name>Simon</name> has come into his own and
+has just been wedded to his proper affinity, that the structure
+seems to me to fall with a crash. I might perhaps,
+though not without reluctance, have pardoned an impertinent
+railway accident which leaves the young man apparently
+<pb xml:id="V147_20" n="20"/>
+crippled for life, but the last chapters, in which he finds
+spiritual comfort and (after the doctors have given up hope)
+complete anatomical readjustment through the ministrations
+of faith healing, alienated me entirely. From the
+outset the obvious scheme of the novel is to bring the hero
+back happily to the home and, if you will, the rustic church
+of his ancestors; and, though the science of Christian
+healing may do all that its adherents claim for it, it has
+about as much to do with the case of <name>Simon Heriot</name> as the
+dancing dervishes or the rites of Voodoo.</p>
+                <p>
+                    <name rend="sc">Demetra Vaka</name> has melted my literary
+            heart. By way of homage to her I eat the dust and recant
+            all the hard and bitter things I said and thought in my
+            youth concerning Ancient Greece; especially I apologise,
+            on behalf of myself and my pedagogues, for after regarding
+            its language as a dead one. <title>A Child of the
+            Orient</title> (<name rend="sc">Lane</name>) has taught me
+            better, though the last object the author appears to have
+            in view is to educate. This "Greek girl brought up in a
+            Turkish household" writes to amuse, entertain and charm,
+            and her success is abundant.  Whether it is attributable
+            to the romantic particulars of the Turkish household or to
+            the ingenuous personality of the Greek girl, I hesitate to
+            say, since both are so captivating; but this I know, that,
+            considered as descriptive sketches or personal episodes,
+            each of the twenty-two chapters is a separate delight.
+            For the ready writer material is not wanting in the Near
+            East; a fine theme is provided in the national ambition of
+            the Greek, who cannot forget his glorious past and be
+            content with his less conspicuous present. As for the love
+            interest, who should supply this better than the Turk? In
+            these days of cosmopolitanism there are bound to be
+            romantic complications in the lives of a polygamous people
+            situate in a monogamous continent.  By way of postscript
+            the authoress travels abroad and deals with alien matters;
+            her impression, I gather, is that if her ancestors of
+            classical times could see our world of to-day and express
+            an opinion upon it the best of their praise would be
+            reserved for the fact of the British Empire, and the worst
+            of their abuse be spent upon what is known as American
+            humour. I am so constituted that I cannot but be
+            prejudiced in favour of a writer gifted with so profound a
+            judgment.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>The creatrix of <name>Pam</name> must look to her
+         laurels. Slovenliness is the aptest word to apply to the
+         workmanship of <title>Maria</title> (<name rend="sc">Hutchinson</name>), the latest heroine of the
+         <persName>Baroness <name rend="sc">Von
+         Hutten</name>
+                    </persName>. <title>Maria</title> has the air of
+         having been contracted for, while that fastidious overseer
+         who lurks at the elbow of every honest craftsman, condemning
+         this or that phrase, readjusting the other faulty piece of
+         construction, has frankly abandoned the
+         contractor. <name>Maria</name> was the daughter of an artist
+         cadger (name of <name>Drello</name>), friend of the great and
+         seller of their autograph letters, whereby he was astute
+         enough to make a comfortable living. <name>Maria</name> had a
+         dull brother named <name>Laertes</name>, who accidentally met
+         a highness, who fell very abruptly in love with
+         <name>Maria</name> and made her strictly dishonourable
+         proposals. <name>Maria</name> drew herself up, compelled him
+         to apologise and go away, until the nineteenth chapter, when
+         she made similar proposals to the highness, now a duly and
+         unhappily married <name>King of Sarmania</name>. But she is
+         saved by the chivalrous love-lorn dwarf, <name>Tomsk</name>,
+         who, with the irascible singing-master <name>Sulzer</name>,
+         is responsible for the chief elements of vitality in this
+         rather suburban romance. And I found myself never believing
+         in <name>Maria's</name> wondrous beauty and quite sharing
+         <name>Sulzer's</name> poor opinion of her singing. But this
+         of course was mere prejudice.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>In <title>Grizel Married</title> (<name rend="sc">Mills
+         and Boon</name>) Mrs. <name rend="sc">George de Horne
+         Vaizey</name> exhibits the highest-handed method of treating
+         Romance that ever I met. For consider the situation to be
+         resolved. <name>Dane Peignton</name> was engaged to
+         <name>Teresa</name>, but in love with <name>Lady Cassandra
+         Raynor</name>, whose husband, I regret to add, was still
+         alive. <name>Dane</name> and <name>Cassandra</name> had never
+         told their love, and concealment might have continued to prey
+         on their damask cheeks, if <persName>Mrs.  <name rend="sc">Vaizey</name>
+                    </persName> had not (very naturally),
+         wished to give us a big emotional scene of avowal. It is the
+         way in which this is done that compels my homage. Off go the
+         characters on a picnic, obviously big with
+         fate. <name>Teresa</name> goes, and <name>Dane</name> and
+         <name>Cassandra</name>, the fourth being <name>Grizel</name>,
+         whom you may recall pleasantly from an earlier book; but,
+         though she fills the title <hi rend="it">rôle</hi> in this
+         one, she has little to do with its development. Of course I
+         saw that something tragic was going to happen to somebody on
+         that picnic—cliffs or tides or mad bulls or something. But I
+         don't suppose that in twenty guesses you could get at the
+         actual instrument of destiny.  <name>Cassandra</name> chokes
+         over a fish-bone! That's what I meant about Mrs. <name rend="sc">Vaizey's</name> courage. And the reward of it is
+         that, after your first moment of incredulity, the fish-bone
+         isn't in the least bit absurd. Poor <name>Cassandra</name>
+         comes quite near to expiring of it; and <name>Dane</name>,
+         having thumped and battered her into safety, sobs out his
+         wild and whirling passion, while <name>Grizel</name> and poor
+         <name>Teresa</name> have just to sit about and listen. It
+         really is rather a striking and original climax; incidentally
+         it is far the best scene in an otherwise not very brilliant
+         tale. But, having attended that picnic, I shall be astonished
+         if you don't, want to go on to the end and see how it all
+         straightens out.</p>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e3165" type="cartoon">
+                <figure>
+                    <graphic width="800px" url="images/020.png"/>
+                    <head>BARGAIN: Two-seater, with most of the accessories; only
+	    done fifty miles; water-cooled engine; owner giving up driving.</head>
+                </figure>
+            </div>
+            <milestone rend="hr" unit="rule"/>
+            <div xml:id="d1e3178" type="snippets">
+                <quote>
+                    <p>
+"At 9.30 o'clock, as the fog lifted somewhat, the rescuing steamer
+Lyonnesse had sighted the Gothland, fast on the rocks, with a bad
+list to starboard, and apparently partly filled with pater."</p>
+                </quote>
+                <p>
+                    <title>Daily Chronicle.</title>
+                </p>
+                <p>"Our Special Correspondent's" father seems to be a big
+man.</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"While the class watches, the teacher pronounces all the words.
+Then the whole class pronounces them while the teacher points,
+skipping around."—<title>Hawaii Educational Review.</title>
+                    </p>
+                </quote>
+                <p>A pretty scene, if the teacher is a man of graceful
+movements.</p>
+            </div>
+        </body>
+    </text>
+</TEI>

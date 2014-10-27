@@ -1,0 +1,3 @@
+# output of ant build script
+build/*
+expath-pkg.xml

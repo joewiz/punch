@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project basedir="." default="xar" name="punch">
+    <property name="project.app" value="punch"/>
+    <property name="project.version" value="0.1"/>
+    <property name="project.name" value="Punch"/>
+    <property name="build" value="./build"/>
+    <property name="server.url" value="http://demo.exist-db.org/exist/apps/public-repo/public/"/>
+    <condition property="git.commit" value="${git.commit}" else="">
+        <isset property="git.commit"/>
+    </condition>
+    <target name="rebuild" depends="clean,xar"/>
+    <target name="clean">
+        <delete dir="${build}"/>
+        <delete file="expath-pkg.xml"/>
+    </target>
+    <target name="xar">
+        <mkdir dir="${build}"/>
+        <copy file="expath-pkg.xml.tmpl" tofile="expath-pkg.xml" filtering="true" overwrite="true">
+            <filterset>
+                <filter token="project.version" value="${project.version}"/>
+            </filterset>
+        </copy>
+        <zip destfile="${build}/${project.app}-${project.version}${git.commit}.xar">
+            <fileset dir=".">
+                <include name="**"/>
+                <exclude name="build/"/>
+                <exclude name=".git*"/>
+                <exclude name="*.tmpl"/>
+                <exclude name="*.properties"/>
+            </fileset>
+        </zip>
+    </target>
+    <target name="upload">
+        <input message="Enter password:" addproperty="server.pass" defaultvalue="">
+            <handler type="secure"/>
+        </input>
+        <property name="xar" value="${project.app}-${project.version}${git.commit}.xar"/>
+        <exec executable="curl">
+            <arg line="-T ${build}/${xar} -u admin:${server.pass} ${server.url}/${xar}"/>
+        </exec>
+    </target>
+</project>

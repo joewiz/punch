@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<meta xmlns="http://exist-db.org/xquery/repo">
+    <description>Punch</description>
+    <author>Joe Wicentowski</author>
+    <website/>
+    <status>alpha</status>
+    <license>GNU-LGPL</license>
+    <copyright>true</copyright>
+    <type>application</type>
+    <target>punch</target>
+    <prepare>pre-install.xql</prepare>
+    <finish/>
+    <permissions user="punch" group="punch" mode="rw-rw-r--"/>
+    <changelog>
+        <change version="0.1">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>Initial adaptation to EXPath Package</li>
+            </ul>
+        </change>
+    </changelog>
+</meta>

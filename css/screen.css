@@ -1,0 +1,105 @@
+/* Adapted from: history.state.gov/css/styles.css 
+   Assumes base blueprint css is imported first */
+
+/* ====General Stuff==== */
+body {
+    background: #FFFFFF url(/images/background.gif) repeat-x;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    color: #606060;
+    margin: 0 25px 0 25px;
+}
+.container {
+    background: #FFFFFF;
+    border-top: 1px solid #DDDDE8;
+    border-left: 1px solid #DDDDE8;
+    border-right: 1px solid #DDDDE8;
+    border-bottom: 1px solid #DDDDE8;
+    margin-top: 15px;
+    padding: 10px 0 20px 0;
+    -moz-border-radius:1ex;
+    -webkit-border-radius:1ex;
+}
+h2 {
+    text-transform: uppercase;
+    font-weight:900;
+    color: #911625;
+}
+h3 {
+    font-weight:900;
+    line-height: 1.2;
+}
+a, a:visited {
+    color: #496690;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #911625;
+  text-decoration: none;
+}
+
+hr {
+    margin: 7px;
+}
+label {
+    color: #444444;
+}
+label span {
+    color: #999999;
+    font-size: smaller;
+}
+label.hidden {
+    display: none;
+}
+ul {
+    list-style-type: none;
+}
+p img.bordered {
+    padding: 4px;
+    border: 1px solid #DDDDE8;
+    margin: 0px 9px 5px 0;
+}
+.bordered {
+    border: 1px solid #DDDDE8;
+    padding: 10px;
+    -moz-border-radius:1ex;
+    -webkit-border-radius:1ex;
+}
+.inner-right {
+    padding-right: 15px;
+}
+.inner-left {
+    padding-left: 15px;
+}
+.inner {
+    padding: 0 15px 0 15px;
+}
+
+/* ====Breadcrumbs====*/
+#breadcrumbs ul {
+    list-style-type: none;
+}
+#breadcrumbs ul li {
+    display: inline;
+}
+
+/* ====Footer====*/
+#footer {
+    text-align: center;
+    margin-top: 10px;
+}
+
+#footer-text {
+    text-align: center;
+}
+
+#footer-hr {
+    height: 4px;
+    background-color: gray;
+}
+
+/* ====Search Results====*/
+.hi {
+    font-weight: bold;
+    color: #911625;
+}

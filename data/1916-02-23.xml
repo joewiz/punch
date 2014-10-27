@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Punch, or the London Charivari, Vol. 150, February 23, 1916</title>
+            </titleStmt>
+            <publicationStmt>
+                <idno type="gutenberg">22697</idno>
+                <availability>
+                    <p>This text is freely available for re-use under US and UK law, consult
+                            your local legal restrictions if elsewhere.</p>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This text is a TEI version of a Project Gutenberg text originally located at
+                            <ptr target="http://www.gutenberg.org/dirs//////"/>. As per their license agreement we have removed
+                        all references to the project's trademark, however have included this
+                        pointer to the original in case you want the plain text, or their XHTML
+                        version. </p>
+            </sourceDesc>
+        </fileDesc>
+        <revisionDesc>
+            <change when="2008-06-27T16:13:22.201+01:00"/>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div xml:id="d1e44" type="div2">
+                <head>CHARIVARIA.</head>
+                <p>The threatened shortage of paper
+has led a few unkind persons to
+enquire upon what our diplomatic victories
+are hereafter to be achieved.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>An interned German was recently
+given a week's freedom in which to get
+married, and the interesting question
+has now been raised as to whether his
+children, when they reach the age of
+twenty-one, will be liable to the Conscription
+Act or will have to be interned
+as alien enemies.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>According to Miss <name rend="sc">Ellen Terry</name> but
+little attention has been given by the
+critics to the letters in <name rend="sc">Shakspeare's</name>
+plays. We rather thought that one of
+Germany's intelligent young professors
+had recently subjected the letters to a
+searching analysis, the result being to
+establish beyond a reasonable doubt
+that England started the War.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>From <title>The Observer</title>:—</p>
+                <quote>
+                    <p>
+"The King has sent a congratulatory letter
+to Mrs. Mann of Nottingham, who has nine
+sons serving in the Army and Navy. This is
+believed to be a record for one working-class
+family."
+</p>
+                </quote>
+                <p>Though a mere bagatelle, of course, for
+the idle rich.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>We regret to read of the death from
+tuberculosis of one of the most popular
+and playful of the Zoological Society's
+crocodiles. Death is said to have been
+hastened by a severe chill contracted
+by the intelligent reptile as the result
+of leaving off a warm undervest, the
+gift of an elderly female admirer, in
+order to pursue, in jest, of course, the
+keeper of the reptile house down a drain.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>A Persian newspaper entitled <title>Kaveh</title>
+is now being published in Berlin for
+the purpose of increasing popular interest
+in Persian affairs. Its title is
+short for "<title>Kaveh kanem</title>!" (Beware
+of the Bulldog!)</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>Women who have volunteered to do
+agricultural work in place of men
+called to the colours will wear a green
+armlet, green being selected in preference
+to red on account of the possibility
+of cows.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>The proposal that wives whose
+husbands, though of military age, have
+not attested under the Derby Act shall
+be allowed to wear a ribbon on the left
+arm to signify that it is not their fault,
+is said to have received considerable
+support.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>There is no pleasing everybody. Last
+week Mr. <name rend="sc">Tennant</name> told the House of
+Commons that hereafter "the Navy
+would undertake to deal with all hostile
+aircraft attempting to reach this country,
+while the Army undertook to deal
+with all aircraft which reached these
+shores." And now the Horse Marines
+are asking bitterly why they are not to
+be permitted to share in the great work.</p>
+                <milestone rend="hr" unit="rule"/>
+                <figure>
+                    <graphic url="images/129.png"/>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+                <p>The German Government has put
+restrictions on the sale of sauerkraut,
+and a hideous rumour is afoot to the
+effect that they are preparing to use it
+on the prisoners by forcible feeding.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>It is said of the Chicago meat-packers
+that they use every part of the pig
+except the squeal. As the result of
+the restriction put upon wood pulp an
+equally economical process is to be
+applied to our old newspapers.</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"Several new records were established at
+the Geelong wool sales, including 20d. for
+greasy merino lambs.—<title>Reuter</title>."
+</p>
+                </quote>
+                <p>This revival of the ancient pastime of
+chasing the greasy lamb will be of
+interest to antiquarians.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>From The <title>Irish Times</title>: "Wanted
+Lad as assistant plumber. <title>Experience
+not necessary</title>." After all there is something
+to be said for the ravages of war.</p>
+                <milestone rend="hr" unit="rule"/>
+                <pb xml:id="page130" n="pg 130"/>
+            </div>
+            <div xml:id="d1e169" type="div2">
+                <head>ERZERUM: A SET-BACK IN THE HOLY WAR.</head>
+                <p>
+                    <name rend="sc">Kaiser to Sultan</name>.</p>
+                <lg>
+                    <lg>
+                        <l>My Moslem brother, this is sad, sad news,</l>
+                        <l rend="i2">So sad that I permit myself to mention</l>
+                        <l>How much it modifies my sanguine views</l>
+                        <l rend="i4">Of Allah's intervention.</l>
+                    </lg>
+                    <lg>
+                        <l>In that combine for holy ends and high</l>
+                        <l rend="i2">Of which I let him figure as the joint head</l>
+                        <l>I must (between ourselves) confess that I</l>
+                        <l rend="i4">Am gravely disappointed.</l>
+                    </lg>
+                    <lg>
+                        <l>Without his help I did the Balkan stunt,</l>
+                        <l rend="i2">But when I left him to his own devices</l>
+                        <l>To operate upon a local front</l>
+                        <l rend="i4">He failed me at the crisis.</l>
+                    </lg>
+                    <lg>
+                        <l>I could not run the show in every scene,</l>
+                        <l rend="i2">Not all at once; and Caucasus was chilly—</l>
+                        <l>Fifty degrees of frost, which would have been</l>
+                        <l rend="i4">Bad for the health of <name rend="sc">Willie</name>.</l>
+                    </lg>
+                    <lg>
+                        <l>And then to think that he should let me down</l>
+                        <l rend="i2">When I was sore in need of heavenly comfort,</l>
+                        <l>Making the Christian free of Erzerum town,</l>
+                        <l rend="i4">Which, as you know, is "some" fort.</l>
+                    </lg>
+                    <lg>
+                        <l>Not that I mind the mere material loss,</l>
+                        <l rend="i2">But poor Armenia, hitherto quiescent,</l>
+                        <l>Who sees the barbarous brigands of the Cross</l>
+                        <l rend="i4">Trampling her trusted Crescent!</l>
+                    </lg>
+                    <lg>
+                        <l>True, you have spared the major part this pain,</l>
+                        <l rend="i2">But for the remnant, who escaped your heeding,</l>
+                        <l>My heart (recovered, thank you, from Louvain),</l>
+                        <l rend="i4">Once more has started bleeding.</l>
+                    </lg>
+                </lg>
+                <p>O.S.</p>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e296" type="div2">
+                <head>MY WAR STORIES.</head>
+                <p>Did you ever try to write War stories? I am not
+alluding to Press telegrams from Athens, Amsterdam or
+Copenhagen, but legitimate magazine fiction. Once I
+was reasonably competent and could rake in my modest
+share of War profits. But recently Clibbers, of the International
+Fiction Syndicate, approached me and said, "Old
+man, do me some War stuff. Anything you like, but it
+must have a novel climax."</p>
+                <p>"Not in a War story," I protested.</p>
+                <p>"Can you deliver the goods?" said Clibbers sternly.</p>
+                <p>After that what could I do but alter the stories I had in
+stock.</p>
+                <p>For example there was my fine story, "Retrieved." The
+innocent convict (would that I had the happy innocence
+of the convict of fiction!) emerges from Portmoor. In a few
+well-chosen words the genial old prison governor (to avoid
+libel actions I hasten to say that no allusion is made to
+any living person) advises the released man to make a
+new career. The convict marches to the recruiting office
+and enlists. In a couple of paragraphs he is at the Front;
+on the second page he saves the Colonel's life, captures a
+German trench on page three, and in less time than it takes
+to do it gains the V.C., discovers the villain dying repentant
+with a full confession in his left puttee, and embraces the
+girl who chanced to be Red-Crossing in the rear of the
+German position—presumably having arrived there by
+aeroplane. This seemed to me both probable and credible
+in a magazine. Still a novel climax was needed. After the
+few well-chosen words from the prison governor I took the
+convict to the nearest public-house, let him discover that
+the new restrictions were in force, and brought the story
+to a novel conclusion by making him say with oaths to the
+recruiting officer that he would be jiggered if ever he
+formed fours for such a rotten old country.</p>
+                <p>I thought that, at any rate, I had provided one surprise
+for my readers. Then I turned to my psychological
+study, entitled "The Funk." There wasn't much story
+in this, but a good deal about a man's sensations when in
+danger. I could picture the horror of it from personal
+experience, for my rear rank man has nearly brained me
+a dozen times when the specials have bayonet drill (I
+also have nearly brained—but I am wandering from the
+subject). Well, the Funk at the critical moment ran away,
+but, being muddled by German gas clouds, ran straight into
+the German lines. He thought that people were trying
+to intercept his flight. In panic he cut them down.
+At the last moment he cut the <name rend="sc">Crown Prince's</name> smile in
+twain. (In fiction, mark you, it is quite allowable to put
+the <name rend="sc">Crown Prince</name> into the firing line). Then came glory,
+the D.C.M. and a portrait of some one else with the
+Funk's name attached in <title>The Daily Snap</title>. However,
+novelty was needed. I concluded by leaving the Funk
+hiding in a dug-out when the British charged and eating
+the regiment's last pot of strawberry jam.</p>
+                <p>I turned to another romance, entitled "Secret Service,"
+and found to my joy that this needed very little alteration.
+The hero chanced to be in Germany at the outset of the
+war. He was imprisoned at Ruhleben, Potsdam, Dantzic,
+Frankfort and Wilhelmshaven. He escaped from these
+places by swimming the Rhine (thrice), the Danube, the
+Meuse, the Elbe, the Vistula, the Bug, the Volga, the Kiel
+Canal and Lake Geneva. He chloroformed, sandbagged,
+choked and gagged sentinels throughout the length and
+breadth of Germany. From under a railway carriage seat
+he overheard a conversation between <name rend="sc">Enver Bey</name> and
+<name rend="sc">Bernhardi</name>. Concealed beneath a pew at a Lutheran
+church he heard <name rend="sc">Count Zep.</name> and <name rend="sc">von Tirp.</name> exchanging
+deadly secrets. Finally he emerged from a grandfather's
+clock as the <name rend="sc">Kaiser</name> was handing the <name rend="sc">Crown Prince</name> some
+immensely important documents, snatched them, stole an
+aeroplane, bombed a Zeppelin or two on his homeward
+way, and landed exhausted at Lord <name rend="sc">Kitchener's</name> feet.
+Here came the change. Instead of opening the parcel to
+discover the plans of the German staff, the <name rend="sc">War Secretary</name>
+found in his hand this document:—</p>
+                <p>"Sausage Prices in Berlin: Pork Sausage, 3 marks 80 pf.;
+Horse Sausage, 3 marks 45 pf.; Dog Sausage, 2 marks 95 pf.
+Gott mit uns.—<name rend="sc">Wilhelm</name>."</p>
+                <p>I sent the three romances to Clibbers and waited his
+reply with anxiety. It came promptly and as follows:—"Are
+you mad?—<name rend="sc">Clibbers.</name>"</p>
+                <p>Instantly I sent him the first versions of these magnificent
+fictions. He phoned me at once, "That's the
+kind of novelty I want. Send me some more."</p>
+                <p>You will see "Retrieved," "The Funk," and "Secret
+Service" in the magazines shortly. Don't trouble if the
+titles differ. After all, there are only three genuine War
+story plots.</p>
+                <milestone rend="hr" unit="rule"/>
+                <div xml:id="d1e377" type="div3">
+                    <head>More Stories of Old London.</head>
+                    <p>(With acknowledgments to "<title>The Evening News</title>.")</p>
+                    <p>Mr. George Washington Turpin, Islington, writes:—</p>
+                    <quote>
+                        <p>
+"I wonder if Mr. G. R. Sims remembers a curious horsey character
+known as John Gilpin, who rode in state one day from his home
+in the City to the Bell at Edmonton. I shall never forget the crowd
+that assembled to see him pass through Islington. It's quite a
+while ago and my memory is not so clear as it might be, but being a
+bit of a road-hog he missed the Bell and went on to York or somewhere."
+</p>
+                    </quote>
+                    <milestone rend="hr" unit="rule"/>
+                    <pb xml:id="page131" n="pg 131"/>
+                </div>
+                <div xml:id="d1e400" type="div3">
+                    <head>DUAL CONTROL.</head>
+                    <figure>
+                        <graphic url="images/131.png"/>
+                    </figure>
+                    <milestone rend="hr" unit="rule"/>
+                    <pb xml:id="page132" n="pg 132"/>
+                </div>
+            </div>
+            <div xml:id="d1e413" type="div2">
+                <head>THE SIMMERERS.</head>
+                <p>"I shall never shake it off," said Francesca. It was
+six o'clock and she had just come in from having tea with
+some friends.</p>
+                <p>"Shake what off?" I said.</p>
+                <p>"My Cimmerian gloom," she said. "Haven't you
+noticed it?"</p>
+                <p>"No," I said, "I can't say I have. Perhaps if you stood
+with your back to the light—yes, there's just a <title>soupçon</title> of
+it now, but nothing that I could honestly call Cimmerian."</p>
+                <p>"Of course you'd be sure to say that. I can never get
+you to believe in my headaches, and now you won't notice
+my Cimmerian gloom."</p>
+                <p>"Francesca," I said, "I do not like to hear you speak
+lightly of your headaches. To me they are sacred institutions,
+and I should never dare to tamper with them. Don't
+I always walk on tiptoe and speak in a whisper when you
+have a headache? You know I do, even when you don't
+happen to be in the room. If your gloom is the same sort
+of thing as your headache——"</p>
+                <p>"It's much worse."</p>
+                <p>"If it's only as bad I'm
+prepared to give it a most
+respectful welcome. But
+what is it all about?"</p>
+                <p>"It's about the War."</p>
+                <p>"God bless my soul, you
+don't say so. You're generally
+so cheerful about it and
+so hopeful about our winning.
+What <hi rend="it">has</hi> happened to give
+you the hump? We've
+blown up any amount of
+mines and occupied the craters,
+and we've driven down
+several German aeroplanes."</p>
+                <p>"Yes, I know," she said,
+"I admit all that; but I've
+just met Mrs. Rowley."</p>
+                <p>"And a very cheery little
+party she is, too."</p>
+                <p>"That," said Francesca,
+"is just it."</p>
+                <p>"What's just what?" I said.</p>
+                <p>"Don't be so flippant."</p>
+                <p>"And don't you be so cryptic. What's Mrs. Rowley's
+cheerfulness done to you?"</p>
+                <p>"I'll tell you how it happened," she said. "We met;
+'twas at a tea, and first of all we talked about committees."</p>
+                <p>"Committees!" I said. "How glorious! Are there
+many?"</p>
+                <p>"Yes," she said. "There's the old Relief Committee, and
+the Belgian Committee, and the Soldiers' Comforts' Committee,
+and the Hospital Visitors' Committee, and the
+Children's Meals' Committee, and the Entertainments'
+Committee and the——"</p>
+                <p>"Enough," I said. "I will take the rest for granted.
+But isn't there a danger that with all these committees——?"</p>
+                <p>"I know," she said; "you're going to say something
+about overlapping."</p>
+                <p>"Your insight," I said, "is wonderful. How did you
+know?"</p>
+                <p>"I've noticed," she said, "that when men form committees
+they always declare that there sha'n't be any overlapping,
+and then, according to their own account, they get to
+work and all overlap like mad. Now we women don't
+worry about overlapping. Most of us don't know what it
+means—I don't myself—but we appoint presidents and
+treasurers and secretaries, and then we go ahead and do
+things. If we were only left to ourselves we should never
+call a meeting of any committee after we'd once started it.
+It's the men who insist on committees meeting."</p>
+                <p>"Yes, and on keeping them from breaking their rules."</p>
+                <p>"What's the use of having committees if you can't break
+their silly old rules?"</p>
+                <p>"Amiable anarchist," I said, "let us abandon committees
+and return to Mrs. Rowley."</p>
+                <p>"Well," she said, "we soon got on to the War."</p>
+                <p>"You might easily do that," I said. "The subject has
+its importance. What does Mrs. Rowley think of it?"</p>
+                <p>"Mrs. Rowley thinks it's all perfectly splendid. She
+hasn't the least doubt about anything. She knows the
+uncle of a man whose cousin is in the War Office and often
+sees Lord <name rend="sc">Kitchener</name> in the corridors, and he's quite
+certain——"</p>
+                <p>"Who? Lord <name rend="sc">Kitchener</name>?"</p>
+                <p>"No, the uncle of the man whose cousin—he's quite
+certain the War will be over in our favour before next June,
+because there'll be a revolution in Potsdam and thousands
+of Germans are being killed in bread-riots every day, and
+lots of stuff of that sort."</p>
+                <p>"I understand," I said.
+"You began to react against
+it."</p>
+                <p>"Something of that kind.
+She was so terribly serene
+and so dreadfully over-confident
+that I got contradictious
+and had to argue with
+her—simply couldn't restrain
+myself—and then she said
+she was sorry I was such a
+pessimist, and I said I wasn't,
+and here I am."</p>
+                <p>"Yes," I said, "you are,
+and in a state of Cimmerian
+gloom,  naturally enough.
+But you've come to the
+right place—no, by Jove,
+now that I think of it you've
+come to the wrong place, the
+very wrongest place in the world."</p>
+                <p>"How's that?"</p>
+                <p>"Because I met old Captain Burstall out walking, and
+he was miserable about everything. According to him we
+haven't got a dog's chance anywhere. The Government's
+rotten, the Army's rotten, the Navy's worse and the
+British Empire's going to be smashed up before Easter."</p>
+                <p>"Captain Burstall's the man for my money. If I'd only
+met him I should have been as cheerful as a lark."</p>
+                <p>"And that," I said, "is exactly what I am, entirely
+owing to a natural spirit of contradiction. I just pulled
+myself together and countered him on every point."</p>
+                <p>"I daresay you did it very well," she said; "but if
+you're as cock-a-hoop as you make out I don't see how I'm
+ever to get rid of my depression. I shall be starting to
+contradict <hi rend="it">you</hi> next."</p>
+                <p>"Which," I said, "will be an entirely novel experience
+for both of us. But I'll tell you a better way; let's keep
+silent for ten minutes and simmer back to our usual
+condition of reasonable hopefulness."</p>
+                <p>"I can't promise silence," she said, "but I'll back myself
+against the world as a simmerer."</p>
+                <p>R. C. L.</p>
+                <milestone rend="hr" unit="rule"/>
+                <figure>
+                    <graphic url="images/132.png"/>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+                <p>
+                    <name rend="sc">Shakspeare</name> to the Slackers:—</p>
+                <quote>
+                    <p>
+"Dishonour not your mothers; now attest." <title>
+                            <name rend="sc">Henry</name> V., Act III.,
+Scene I</title>.
+</p>
+                </quote>
+                <milestone rend="hr" unit="rule"/>
+                <pb xml:id="page133" n="pg 133"/>
+                <figure>
+                    <graphic url="images/133.png"/>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e604" type="div2">
+                <head>ANOTHER AIR SCANDAL.</head>
+                <p>If ever I write a Hymn of Hate, or,
+at any rate, of resentment, it will not
+be about the Germans, but about a
+certain type of Englishman whom I
+encounter far too often and shall never
+understand. The Germans are now
+beyond any hymning, however fervent;
+they are, it is reassuring to think, a
+class by themselves. But my man
+should be hymned, not because it will
+do him any good, but because it relieves
+my feelings.</p>
+                <p>It is really rather a curious case, for
+he might be quite a nice fellow and, I
+have little doubt, often is; but he boasts
+and flaunts an inhuman insensibility
+that excites one's worst passions.</p>
+                <p>What would you say was the quality
+or characteristic most to be desired in
+every member of our social common-wealth?
+Obviously there is only one
+reply to this question: that he should
+be decently susceptible to draughts. If
+society is to go on, either we must all
+be so pachydermatous as to be able
+to disregard draughts, or we must
+feel them and act accordingly. There
+should not be here and there a strange
+Ishmaelite creature whose delight it
+is to be played upon by boreal blasts.
+But there is. I meet him in the train,
+and the other day I hymned him.</p>
+                <p>O thou (my hymn of dislike, of annoyance,
+of remonstrance began):—</p>
+                <lg>
+                    <lg>
+                        <l>O thou, the foe of comfort, heat,</l>
+                        <l>O thou who hast the corner seat,</l>
+                        <l>Facing the engine, as we say</l>
+                        <l>(Although it is so far away,</l>
+                        <l rend="i2">And in between</l>
+                        <l rend="i2">So many coaches intervene,</l>
+                        <l>The phrase partakes of foolishness);—</l>
+                        <l>O thou who sittest there no less,</l>
+                        <l>Keeping the window down</l>
+                        <l>Though all the carriage frown,</l>
+                        <l rend="i2">Why dost thou so rejoice in air?</l>
+                        <l>Not air that nourishes and braces,</l>
+                        <l>Such as one finds in watering-places,</l>
+                        <l rend="i2">But air to chill a polar bear—</l>
+                        <l>Malignant air at sixty miles an hour</l>
+                        <l rend="i2">That rakes the carriage fore and aft,</l>
+                        <l>Wherein we cower;</l>
+                        <l rend="i2">Not air at all, but sheer revengeful draught!</l>
+                        <l>How canst thou like it? Say! How canst thou do it?</l>
+                    </lg>
+                    <lg>
+                        <l>Thou even read'st a paper through it!</l>
+                    </lg>
+                    <lg>
+                        <l>Know'st thou no pain?</l>
+                        <l rend="i2">Sciatica or rheumatism</l>
+                        <l rend="i2">Leading to balm or sinapism?</l>
+                        <l>Doth influenza pass thee by?</l>
+                        <l>Hast never cold or bloodshot eye</l>
+                        <l>Like ordinary Christian folk</l>
+                        <l rend="i2">Who sit in draughts against their will</l>
+                        <l rend="i2">And pray they'll not be ill?</l>
+                        <l>Even in tunnels (this is past a joke)</l>
+                        <l>Thou car'st no rap</l>
+                        <l>Nor, as a decent man would, pull'st the strap,</l>
+                        <l>But lett'st the carriage fill with smoke</l>
+                        <l>Till all but thou must choke.</l>
+                    </lg>
+                    <lg>
+                        <l>Why art thou anti-social thus,</l>
+                        <l>Why dost thou differ so from us?</l>
+                        <l>Thou pig! thou hippopotamus!</l>
+                    </lg>
+                </lg>
+                <p>I don't pretend to be satisfied with
+these lines. They are not strong, not
+complete. Mr. <name rend="sc">Joynson-Hicks</name> would
+have done it more fittingly. Still
+they might do a little good somewhere,
+and every little helps.</p>
+                <milestone rend="hr" unit="rule"/>
+                <div xml:id="d1e757" type="div3">
+                    <head>Overtime.</head>
+                    <quote>
+                        <p>
+"The evidence was that defendants employed
+six young persons for more than seven
+days a week."—<title>Provincial Paper.</title>
+                        </p>
+                    </quote>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+"The organist played as opening voluntaries
+the 'Bridal March' from 'Lohengrin,'
+Barnaby's 'Bridal March' from 'Lohengrin,'
+and Barnaby's 'Bridal March.'"</p>
+                        <p>
+                            <title>Provincial Paper.</title>
+                        </p>
+                    </quote>
+                    <p>It was evidently <name rend="sc">Barnaby</name>'s. Still, we
+think <name rend="sc">Wagner</name> might have been mentioned
+as his collaborator.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+"In the current number of the <title>Commonwealth</title>
+Canon Scott Holland in his own
+inimical manner endorses all that Mr. Carey
+has been writing in our columns recently."</p>
+                        <p>
+                            <title>Clerical Paper.</title>
+                        </p>
+                    </quote>
+                    <p>The Canon appears to be one of those
+jolly people who slap you on the back
+as if they would knock you down.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <pb xml:id="page134" n="pg 134"/>
+                </div>
+            </div>
+            <div xml:id="d1e818" type="div2">
+                <head>AT THE FRONT.</head>
+                <p>Of recent days we have almost
+stopped pretending to be soldiers and
+owned up to being civilian labourers
+lodged in the War zone. This is felt
+so acutely that several leading privates
+have quite discarded that absolute
+attribute of the infantryman, the rifle.
+They return from working parties
+completely unarmed, discover the fact
+with a mild and but half-regretful
+astonishment and report the circumstance
+to section-commanders as if
+they had lost one round of small arms
+ammunition or the last cube from an
+iron ration.</p>
+                <p>The hobby of the civilian labourer
+is obstacle-racing. To do this you
+require a dark night, the assistance of
+some Royal Engineers, an appointment
+just behind the front line with
+some supervisor of labour whom you
+don't know and don't specially want
+to, and a four-mile stretch across
+country to the rendezvous.</p>
+                <p>You start out at nightfall and do
+good time over the first hundred yards.
+The field consists of forty to eighty
+labourers, and one of the idle rich (formerly
+styled officers). At the hundred
+yards' mark the Royal Engineers begin
+to come in. Obstacle 1 is a model
+trench, built for instructional purposes
+and now being turned to
+obstructional account. There's one
+place where you can get on to the
+parades without swimming, and if we
+started by daylight we might strike
+it. We do not start by daylight.</p>
+                <p>Beyond the trench is a wire entanglement,
+also a fine specimen of early
+1915 R.E. work. We may note in
+passing the trip wire eight yards
+beyond. We're getting pretty good
+with it now, but in our early days the
+R.E. used to get a lot of marks for it.</p>
+                <p>You go on towards a couple of moated
+hedges, whimsically barbed in odd
+spots, and emerge into a park or open
+space leading into an unhealthy-looking
+road. It seems all plain sailing to
+the road—unless you know the R.E.,
+in which case you will not be surprised
+to find your neck nearly bisected
+by a horizontal wire designed to encourage
+telephonic communication.</p>
+                <p>Eventually you all reach an area
+known for some obscure reason—if for
+any at all—as "The Brigade." Here
+the R.E. have a new game waiting for
+you. We call it "Hunt the Shovels."
+You have been instructed to draw
+shovels from the Brigade. The term
+covers a space of some thousand square
+metres intersected with hedges, bridges,
+rivers, dugouts, horseponds (natural
+and adventitious), any square metre of
+which may contain your shovels.</p>
+                <p>If you are not behind time so far
+this is where you drop a quarter of an
+hour. Of course you may just get fed
+up and go home. But in that case you
+aren't allowed to play again, and as a
+matter of fact the game is rather <title>de
+rigueur</title> out here. So you hide your
+party behind a sign-post, which tells
+you—if it were not too dark to read—<name rend="sc">Infantry
+Must Not Halt Here</name>,
+and then a lance-corporal with a good
+nose for shovels looks through the more
+likely hiding-places. The search is
+rendered pleasant as well as interesting
+by the fact that all the Brigade
+has been trodden into a morass by
+months of shovel-hunting.</p>
+                <p>Beyond the Brigade the obstacles
+really begin. But if you use a revolver
+freely for wire-cutting and rope your
+party together—this prevents anyone
+sitting down by the wayside to take
+his boots off "because they draws that
+bad"—you will reach the rendezvous
+assigned to you within an hour of the
+time assigned to you. At this point you
+will learn that no guide has been seen
+or heard of there, and, subsequently,
+that the guide was warned for another
+square that certainly looks very similar
+on the map. But again, if you
+know guides, you will guess that he
+went straight to the spot where the
+job was to be done without bothering
+about anything so intricate or superfluous
+as a rendezvous. Anyhow you
+will probably end by getting some sort
+of casual labour somewhere, some time
+or other, and no questions asked so
+long as you don't inadvertently dig
+through from a main drain into a
+C.O.'s dugout.</p>
+                <p>There is a new joke too, a Red Book,
+out of which we are gradually becoming
+millionaires. It is full of comfortable
+claims and allowances for gentlemen
+serving the <name rend="sc">King</name> overseas. The
+only thing is it takes a bit of working
+out. There are so many channels of
+enrichment. Thus in June—I forget
+the exact date—I spent a night in the
+train. Although I had a bed and beer
+in bottles all the way from England,
+not to mention usual meals and part
+use of doctor, I became entitled to one
+franc ten centimes in lieu of something
+which I have now forgotten. (Authority,
+W.O. Letter 2719.)
+Then a broken revolver is worth no
+less than seventy-two shillings, but I
+have to collect autographs to get that
+Unclaimed groom's allowance—I don't
+think my groom has claimed it—comes
+to nearly four-and-sixpence; and I find
+I have been quite needlessly getting
+my hair cut at my own expense these
+many months.</p>
+                <p>And yet I am afraid that when
+have made it all out and got a chartered
+accountant to account for it—that
+ought to mean a few pounds
+Chartered Accountant allowance—my
+application will be returned to me
+because the envelope is not that shade
+of mauve officially ordained for the
+enclosure of Overseas Officers' Claims.</p>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e864" type="div2">
+                <head>TO "LIFE" OF NEW YORK.</head>
+                <p>(<title>In acknowledgment of its "John Bull
+Number."</title>)</p>
+                <lg>
+                    <lg>
+                        <l>In earlier peaceful days your attitude</l>
+                        <l>Was witty and satirical and shrewd,</l>
+                        <l>But, whether you were serious or skittish,</l>
+                        <l>Always a candid critic of things British,</l>
+                        <l>Though, when you were unable to admire us,</l>
+                        <l>
+                            <title>Life's</title> "little ironies" were free from virus.</l>
+                        <l>But since the War began your English readers</l>
+                        <l>Have welcomed <name rend="sc">Martin</name>'s admirable leaders—</l>
+                        <l>Which prove that all that's honest, clean and wise</l>
+                        <l>In the United States is pro-Allies—</l>
+                        <l>And learned to recognise in <title>Life</title> a friend</l>
+                        <l>On whom to reckon to the bitter end.</l>
+                        <l>But these good services you now have crowned</l>
+                        <l>By something finer, braver, more profound—</l>
+                        <l>Your "John Bull Number," where we gladly trace</l>
+                        <l>Pride in the common glories of our race,</l>
+                        <l>Goodwill, good fellowship, kind words of cheer,</l>
+                        <l>So frank, so unmistakably sincere,</l>
+                        <l>That we can find (in <name rend="sc">Artemus's</name> phrase)</l>
+                        <l>No "slopping over" of the pap of praise,</l>
+                        <l>But just the sort of message that one brother</l>
+                        <l>Would send in time of trial to another.</l>
+                        <l>And thus, whatever comes of <name rend="sc">Wilson</name>'s Notes,</l>
+                        <l>Of Neutral claims or of the tug for votes,</l>
+                        <l>Nothing that happens henceforth can detract</l>
+                        <l>From your fraternal and endearing act,</l>
+                        <l>Which fills your cup of kindness brimming full,</l>
+                        <l>And signals <title>Sursum corda</title> to John Bull.</l>
+                    </lg>
+                </lg>
+                <p>(The War Week by Week, as seen from New
+York. Being Observations from "Life." By
+<persName>E.S. Martin</persName>.)</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"The Chairman said he should like to
+appeal to the good sense of the inhabitants
+of Duffield, through the Press, to do all they
+could to darken their windows not only at
+the front of the houses, but also at the back.</p>
+                    <p>The Clerk said the Council had no power
+to take action in this matter only by persuasion,
+and it was decided that 500 leaflets
+should be distributed by the lamplighters to
+each house."</p>
+                </quote>—<title>Derbyshire Advertiser.</title>
+                <p>And with pulp so expensive, too!</p>
+                <milestone rend="hr" unit="rule"/>
+                <pb xml:id="page135" n="pg 135"/>
+                <div xml:id="d1e1013" type="div3">
+                    <head>MR. PUNCH'S POTTED FILMS. THE PLAY WITH A MORAL.</head>
+                    <figure>
+                        <graphic url="images/135a.png"/>
+                    </figure>
+                    <figure>
+                        <graphic url="images/135b.png"/>
+                    </figure>
+                    <figure>
+                        <graphic url="images/135c.png"/>
+                    </figure>
+                    <figure>
+                        <graphic url="images/135d.png"/>
+                    </figure>
+                    <figure>
+                        <graphic url="images/135e.png"/>
+                    </figure>
+                    <figure>
+                        <graphic url="images/135f.png"/>
+                    </figure>
+                    <milestone rend="hr" unit="rule"/>
+                    <pb xml:id="page136" n="pg 136"/>
+                    <figure>
+                        <graphic url="images/136.png"/>
+                    </figure>
+                    <milestone rend="hr" unit="rule"/>
+                </div>
+            </div>
+            <div xml:id="d1e1059" type="div2">
+                <head>MUSICAL JUMBOMANIA.</head>
+                <quote>
+                    <p>
+"The piano with a thirty-foot keyboard,
+forty-five octaves, and five hundred and
+twenty-two keys, which Mr. Alfred Butt will
+'present' in 'Follow the Crowd' at the
+Empire Theatre, is now in course of construction.
+Six pianists will play it, and Mr.
+Irving Berlin, the composer of 'Watch Your
+Step,' is composing some special melodies for
+them."</p>
+                </quote>—<title>Sunday Paper.</title>
+                <p>The new Bombastophone which the
+Titanola Company are constructing for
+Mr. Boomer, the famous War lecturer,
+is approaching completion. This remarkable
+instrument, which roughly
+resembles a double-bassoon, stands
+about 45 feet high, and has a compass
+of 500 octaves, from the low B flat <title>in
+profundissimo</title> to the high G on the
+Doncaster St. Leger line. The use
+that Mr. Boomer makes of the Bombastophone
+is very original and effective.
+Whenever he sees that the attention of
+his audience is flagging he introduces
+an interlude of "bombination," which
+renders lethargy impossible and exercises
+an indescribably stimulating effect
+on the tympanum. The current of air
+is supplied by a bellows operated by an
+eight-cylinder Brome engine, but Mr.
+Boomer works the keys himself, climbing
+up and down them with a rapidity
+which must be seen to be appreciated.</p>
+                <p>Another instrument which is expected
+to work a revolution in the realm
+of sonority is the Clumbungo Drum,
+on which Mr. Wackford Bumpus
+will shortly give a recital at the Albert
+Hall. The drum, which is made of
+teak and rhinoceros hide, is three
+hundred feet in circumference, but only
+twenty feet high, and the drumsticks
+are of proportionate length. As Dr.
+Blamphin, the eminent aurist, remarks,
+"The merit of the notes of this momentous
+instrument is their profound sincerity.
+They cannot be disregarded even
+by the most absent-minded auditor."</p>
+                <milestone rend="hr" unit="rule"/>
+            </div>
+            <div xml:id="d1e1082" type="div2">
+                <head>HINTS FOR AIR RAIDS.</head>
+                <p>The War Office have issued a notice
+reminding the public that they are
+greatly inconvenienced by persons who
+telephone for information during the
+progress of an air raid. To avoid a
+repetition of the trouble the attention
+of the public is called to the following
+information:—</p>
+                <p>(1) Elderly ladies may deposit their
+lap dogs in the bomb-proof shelter
+erected for that purpose in the basement
+of the War Office buildings at Whitehall,
+a charge of one penny per dog
+per raid being made.</p>
+                <p>(2) Persons removed from the interior
+of motor omnibuses by the
+explosion of bombs dropped by airships
+cannot claim from the Government a
+refund of the fares paid by them.</p>
+                <p>(3) Persons having reason to believe
+that an air raid is in progress are
+requested to put on their hats before
+leaving the house, as it has been
+ascertained that a hard hat is a substantial
+protection against falling Zeppelins.</p>
+                <p>(4) For the benefit of editors and
+others who are dissatisfied with the
+precautions taken to cope with the
+Zeppelin peril, Messrs. Selfgrove &amp; Co.
+announce that their new Strafing Room
+will shortly be open to the public.</p>
+                <p>(5) As the force of a bomb explosion
+is largely in an upward direction, those
+in the immediate vicinity of a dropping
+bomb are advised to assume a recumbent
+position, in which they will enjoy
+the added advantage of being indistinguishable
+from the pavement.</p>
+                <p>(6) As theatre audiences are notoriously
+subject to panic, actor-managers
+are earnestly requested to prepare
+beforehand some suitable jest with
+which, in the event of a bomb entering
+the theatre, the attention of the audience
+may be distracted.</p>
+                <milestone rend="hr" unit="rule"/>
+                <pb xml:id="page137" n="pg 137"/>
+                <div xml:id="d1e1112" type="div3">
+                    <head>A BLOW FOR THE CRESCENT.</head>
+                    <figure>
+                        <graphic url="images/137.png"/>
+                    </figure>
+                    <milestone rend="hr" unit="rule"/>
+                    <pb xml:id="page138" n="pg 138"/>
+                </div>
+            </div>
+            <div xml:id="d1e1125" type="div2">
+                <head>UNDERGROUND GAME.</head>
+                <p>It was four o'clock on a wet wintry
+morning.</p>
+                <p>Captain Blank executed an inadvertent
+double-shuffle on a greasy
+trench plank and wondered vaguely
+why the rain should <hi rend="it">always</hi> come from
+the north-east. Presently a figure
+squelched up to him and halted.</p>
+                <p>"'Tis Sergeant O'Hagan, Sorr," it
+whispered hoarsely.</p>
+                <p>"Well, Sergeant, what is it?"</p>
+                <p>"'Tis the sintry at Fosse 19, Sorr.
+He's reported quare noises in that
+inimy sap beyant."</p>
+                <p>"Been dreaming, I expect," muttered
+the Captain, and then added briskly,
+"I think I'll have a listen myself. Go
+ahead, Sergeant."</p>
+                <p>They made their way slowly along
+the uneven trench, past silent figures
+reclining in various attitudes of ease or
+discomfort; past emplacements where
+machine-guns and trench-mortars
+were innocently sleeping (with one eye
+always open) or being overhauled by
+an expert night-nurse. Eventually,
+by that instinct common to trench-dwellers
+and professional poachers,
+they found themselves at Fosse 19,
+and with superlative caution crept up
+to the sentry.</p>
+                <p>"What's wrong?" whispered the
+Captain tersely.</p>
+                <p>"Well, Sir," replied Private Blobbs,
+"I was standin' 'ere on listenin' duty,
+when I 'ears somethink movin' very
+contagious, so I pops up me 'ead to
+'ave a peep. Didn't see nothink, but I
+'ears a pecooliar noise like——There
+y'are, Sir."</p>
+                <p>He broke off abruptly, and, borne
+upon the wind, came a series of guttural
+murmurs.</p>
+                <p>"Now wouldn't ut give one a quare
+shtart, that?" remarked Sergeant
+O'Hagan, <title>sotto voce</title>.</p>
+                <p>"Um-m," said the Captain thoughtfully.
+"I think Mr. Hamilton had
+better have a look round."</p>
+                <p>A few minutes later, having invaded
+the privacy of "Whortleberry Villa,"
+he was relentlessly prodding a bundle
+of waterproofs.</p>
+                <p>"Come on, young fella!" he exclaimed
+when the bundle showed signs
+of life; "bombin' party forward.
+Brother Bosch is playin' the piccolo
+just outside Fosse 19."</p>
+                <p>The Subaltern scrambled out of his
+wraps and, with incredible dispatch,
+gathered together the Davids of his
+section. "All guaranteed," so he
+boasted, "to hit the cocoanut every
+time."</p>
+                <p>Accoutred with their infernal
+machines, the little band of hope
+passed along the trench as silently as
+a party of Fenimore Cooper's North-American
+Indians.</p>
+                <p>"Yes, they're at home right
+enough," muttered the Subaltern, after
+a cramped interval of breathless attention,
+"and fairly asking for it."</p>
+                <p>He proceeded to make his dispositions
+with the skill and assurance of
+an old hand. He was nearly nineteen.</p>
+                <p>"We're going to stalk 'em this
+time," he whispered to the men; "you
+keep on crawling till I say 'Go!'
+Then drop it on them quick."</p>
+                <p>He slid over the parapet like an eel
+and disappeared into the night. In a
+few moments the sentry was alone in
+the trench. His state of mind was,
+from sheer excitement, almost insupportable.</p>
+                <p>After what seemed interminable
+hours, at last he heard the clear word
+of command, the clatter of things
+falling and the immediate roar of the
+explosions. In reply, rifle fire began
+to break out along the German first
+trenches, whilst, overhead, a star-shell
+burst into blossom; then the stutter of
+machine-guns joined in the chorus.
+The sentry flattened himself like a
+poultice against the side of the trench.
+Fosse 19 had, among other disadvantages,
+the reputation of being open to
+enfilading by machine-gun fire.</p>
+                <p>The disturbance died away as quickly
+as it had arisen, but there were no
+indications that the bombing party
+was returning. Private Blobbs danced
+with futile impatience and bent his
+head to the approved angle of the
+expert listener. Suddenly a heavy
+body took him in the nape of the
+neck.</p>
+                <p>"Ow!" he exclaimed, floundering in
+mud and water with an unseen and
+inconceivable presence. He clutched
+the nightmare of an ear and kicked
+violently.</p>
+                <p>"Look aht, Percy," enjoined a
+hollow but reassuring voice, "'ere
+comes another!"</p>
+                <p>Private Blobbs removed himself with
+remarkable agility.....</p>
+                <p>"Good!" exclaimed the Subaltern
+when he finally slid into the trench.
+"This expedition hasn't quite come up
+to expectations, but it's the nicest
+family of pigs I've seen for some
+time."</p>
+                <p>He flashed an electric torch on to
+the disordered carcasses.</p>
+                <p>"Corporal Leary," he added incisively,
+"will you kindly see that the
+officers' mess is served with fresh
+pork?"</p>
+                <p>He snapped out the torch and, complete
+master of the situation, started
+on the return journey to "Whortleberry
+Villa."</p>
+                <milestone rend="hr" unit="rule"/>
+                <div xml:id="d1e1229" type="div3">
+                    <head>BRINGING THE WAR HOME TO US.</head>
+                    <p>
+                        <name rend="sc">Household Orders.</name>
+                    </p>
+                    <p>By Mrs. <name rend="sc">Emma Pipp</name>, Commanding
+3rd (Home Service) Battalion, The Fire
+Guards. February 21st, 1916.</p>
+                    <quote>
+                        <p>
+                            <title>Detail</title>.   Orderly Officer  ....   <title>Mary Ann</title>.
+                 Next for duty....       <title>Sarah Jane</title>.
+                 Charwoman of the day. . <title>Mrs. Susanna Sudds</title>.
+</p>
+                    </quote>
+                    <quote>
+                        <p>
+                            <title>Parade.</title> 9.30 Shopping march under the Commanding
+Officer. Haversacks (for rations) will
+be carried.</p>
+                        <p>
+                            <title>Inspection.</title> 12.0 O.C. Pantry will inspect all
+beetle-traps in her charge, and report if
+No. 13 (Kitchener pattern) has been found.</p>
+                        <p>
+                            <title>Decrease Strength.</title> No. 4 Master T. Pipp,
+attached to Sea View House School,
+Boyton, for discipline.</p>
+                        <p>
+                            <title>Promotion.</title> The Commanding Officer is pleased
+to approve of the following promotions:—Under-housemaid
+Mary Jane, to be
+Acting-Sergeant Housemaid; Miss Jones,
+Lady Nurse, to be Nursery Governess.</p>
+                        <p>
+                            <title>Leave.</title> No. 1 Father Pipp granted six days'
+leave, inclusive of two days for travelling.
+Credit with six days' ration allowance at
+1s. 9d. per diem.</p>
+                        <p>
+                            <title>Baths.</title> Baths will be available for the nursery
+on Saturday evening from 6 to 7. O.C.
+Nursery will report that they have been
+taken.</p>
+                        <p>
+                            <title>Signalling.</title> The Commanding Officer is pleased
+to announce that at the Fortnightly Course
+of Glad Eye Signalling, No. 2 Gertie
+Pipp gained a Flapper's Certificate.</p>
+                        <p>
+                            <title>Enquiry.</title> A Court of Enquiry will assemble
+on the 25th inst. for the purpose of enquiring
+into the circumstances whereby the
+wheel of No. 3 Perambulator became
+buckled on the 12th inst.</p>
+                        <p>O.C. Nursery will arrange for the
+presence of the necessary witnesses, with
+the exception of No. 9 Baby Pipp, now
+teething.</p>
+                        <p>
+                            <title>General Inspection.</title> On the 1st prox., Uncle-General
+Towzer, L.S.D., will hold an
+inspection of nephews and nieces at
+5 o'clock on the front parade lawn.</p>
+                        <p>
+                            <title>Dress:</title> Best bibs and tuckers, with
+smiles.
+</p>
+                    </quote>
+                    <milestone rend="hr" unit="rule"/>
+                </div>
+                <div xml:id="d1e1332" type="div3">
+                    <head>A Hint for Slackers.</head>
+                    <quote>
+                        <p>
+"Drilling versus Broad-Casting Oats."</p>
+                        <p>
+                            <title>Scotsman.</title>
+                        </p>
+                    </quote>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+"The British Tropical Committee for War
+Films exhibited a further series of pictures of
+the British Army in France at the West-end
+Cinema House, Coventry-street, yesterday."</p>
+                        <p>
+                            <title>The Times.</title>
+                        </p>
+                    </quote>
+                    <p>Very hot stuff, no doubt!</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <p>From a description of Sir <name rend="sc">Samuel
+Evans</name>' "<title>lit de justice</title>":—</p>
+                    <quote>
+                        <p>
+"Sir Samuel first heard one summons in
+camera, and then took two months of a formal
+nature, the time occupied being less than
+half an hour."</p>
+                    </quote>—<title>Morning Paper.</title>
+                    <p>How time does fly when one's happy.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+"<name rend="sc">Wanted</name>, Rehearse March 20, Comedian
+and Chambermaid. Light Comedy (Refined
+Part, capable Good Drunken Scene)."</p>
+                    </quote>
+                    <bibl>
+                        <title>The Stage.</title>
+                    </bibl>
+                    <p>This is what is meant, no doubt, when
+people talk of "elevating" the drama.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <pb xml:id="page139" n="pg 139"/>
+                </div>
+            </div>
+            <div xml:id="d1e1414" type="div2">
+                <head>ESSENCE OF PARLIAMENT.</head>
+                <figure>
+                    <graphic url="images/139.png"/>
+                </figure>
+                <p>
+                    <title>Tuesday, February 15th.</title>—To the
+regret of all loyal citizens, the curtain
+rang up at Westminster to-day without
+the now customary Royal Overture.
+In the absence of <name rend="sc">His Majesty</name>, the
+<name rend="sc">Lord Chancellor</name> delivered the brief
+Speech from the Throne, expressing
+the unalterable determination of the
+British people and their Allies to defeat
+the Power (name not given but possibly
+conjecturable) "which mistakes force
+for right and expediency for honour."
+To emphasise the unity of the nation
+the Address was moved by the Unionist
+Earl of <name rend="sc">Clarendon</name> and seconded by
+the Liberal Lord <name rend="sc">Muir-Mackenzie</name>. It
+was agreed to in good time for dinner.</p>
+                <p>The Commons are not so economical
+of time. Mr. <name rend="sc">Ian Macpherson</name>, who
+moved the Address, made quite a long
+speech. Like <title>Hamlet</title>, it was chiefly
+composed of quotations, but they were
+all quite apt, and as they ranged from
+<name rend="sc">Thucydides</name> to <name rend="sc">Burke</name>, with <name rend="sc">Bolingbroke</name>'s
+<title>Patriot King</title> thrown in, they
+pleased the House, which likes these
+tributes to its erudition. The seconder,
+in khaki, was Col. F. S. <name rend="sc">Jackson</name>, a new
+Member, who, like the still-lamented
+<name rend="sc">Alfred Lyttelton</name>, had made a reputation
+at Lord's ere ever he essayed
+the Commons. "Jacker" found the new
+wicket not quite to his liking at first,
+but afterwards scored freely. In congratulating
+the outgoing batsman the
+<name rend="sc">Prime Minister</name> discovered unexpected
+knowledge of cricket. "The Hon. Member,"
+he said, "was making his maiden
+speech; but I doubt if he has ever
+encountered a maiden over—except,
+perhaps, when he was bowling."</p>
+                <p>In the regretted absence of the Leader
+of the Opposition, Mr. <name rend="sc">Stuart-Wortley</name>
+as Acting-<name rend="sc">Chaplin</name> referred to the disintegration
+of parties under the stress
+of war. Now they had only groups,
+some designed to help the Government,
+some to "ginger" them. Mr. <name rend="sc">Asquith</name>
+dwelt upon the growing unity of control
+among the Allies, which would
+counteract the advantage in this respect
+hitherto enjoyed by our foes; and
+noted the amazing growth of the once
+"contemptible little" British Army.
+He further reminded us that we had
+already incurred liabilities which it
+would take us a generation to wipe out;
+and it was the first duty of every patriotic
+citizen to practise rigid economy.</p>
+                <p>All very well, said, in effect, Mr.
+<name rend="sc">Wardle</name>, the new leader of the
+Labour Party; but, if the working
+classes are to save, the other classes
+must set them the example. All very
+well, said Sir <name rend="sc">Mark Sykes</name>, but if we
+are going to win the war we must co-ordinate
+at home as well as abroad, and
+abandon the idea of "muddling through."
+With experience of G.H.Q. and four
+public departments, he asserted that
+the men were all right, but the system
+all wrong; and that the proper thing
+was to adopt <name rend="sc">Sultan Omar's</name> plan, and
+give the supreme control of the War to
+a Cabinet of not more than four members,
+who with no administrative details
+to distract them might be able to "teach
+the doubtful battle where to rage."</p>
+                <p>The <name rend="sc">Prime Minister</name> listened with
+interest but without enthusiasm to this
+suggestion. Probably he remembered
+that an essential part of <name rend="sc">Omar</name>'s scheme
+was that if the Four failed to agree
+they were to be promptly hanged, and
+had himself no ambition to take part
+in a String Quartett.</p>
+                <p>
+                    <title>Wednesday, February 16th.</title>—The
+Trustees of the British Museum are
+for the most part grave and reverend
+seniors. But they harbour at least one
+humourist among them, in Captain
+<name rend="sc">Harry Graham</name>. I suspect him of
+having conceived the notion of choosing
+this moment, of all others, to frame a
+petition to the House of Commons
+praying for more money to enable
+<pb xml:id="page140" n="pg 140"/>
+them to fulfil their trust, and of getting
+Mr. <name rend="sc">Lulu Harcourt</name>, himself a member
+of the Government which is closing
+their galleries, to present it.</p>
+                <p>Sir <name rend="sc">Henry Dalziel</name> is the leader of
+one of the "ginger groups" above
+referred to. His first exploit in this
+capacity was to resist the proposal of
+the Government to take all the time of
+the House. In his demand that private
+Members should still be allowed the
+privilege of introducing Bills and having
+them printed at the public expense,
+he had the support of Mr. <name rend="sc">Hogge</name>,
+Mr. <name rend="sc">King</name>, Mr. <name rend="sc">Pringle</name>, Mr. <name rend="sc">Booth</name>,
+Sir <name rend="sc">William Byles</name>, and other statesmen
+of similar eminence; but the <name rend="sc">Prime
+Minister</name> was obdurate. He accused
+the malcontents of lacking a sense of
+perspective—and expressed the poorest
+opinion of their efforts at legislation.</p>
+                <p>Some of the private Members got
+their own back when the first amendment
+to the Address was moved by
+Mr. <name rend="sc">Joynson-Hicks</name>. The Member for
+Brentford, who knows the alphabet of
+aviation from Aeroplane to Zeppelin,
+complained that the air-service, like his
+own constituency in legendary times,
+was under Dual Control, and urged
+that it should be placed under a single
+competent chief.</p>
+                <p>Neither the <name rend="sc">Under-Secretary for
+War</name> nor the <name rend="sc">First Lord of the Admiralty</name>
+was at all happy in reply. They
+resembled a couple of flying pilots who,
+having gone up to attack a hostile airship
+in the dark, search in vain for an
+adequate landing-place. Heckled as to
+the exact status of Sir <name rend="sc">Percy Scott</name>,
+for example, Mr. <name rend="sc">Tennant</name> could only
+say that he "is still in the position he
+<hi rend="it">was</hi> in." When Mr. <name rend="sc">Ellis Griffith</name>
+ventured the remark that a personal
+knowledge of flying would be a useful
+qualification for officers advising the
+Government on this subject, Mr. <name rend="sc">Balfour</name>
+was as painfully surprised as if
+he himself had been called upon to
+navigate a.t.b.d. in heavy weather.</p>
+                <p>In the absence of any definite sign of
+repentance the critics of the Government
+threatened a division, which
+would have been awkward and might
+have been disastrous. In similar circumstances
+Mr. <name rend="sc">Gladstone</name> used to
+"send for the sledge-hammer"—meaning
+Mr. <name rend="sc">Asquith</name>. The present <name rend="sc">Prime
+Minister</name>, when hard pressed, sends
+for <name rend="sc">Bonar</name>. Thus summoned to ride
+the whirlwind the <name rend="sc">Colonial Secretary</name>
+executed a graceful volplane. In a few
+frank sentences he admitted that the
+Government were very far from being
+satisfied with the Air Service, though it
+had achieved great things. Further, they
+were willing to give another day for its
+discussion when they had got through
+their financial business. With this confession
+and promise the critics were
+for the time being appeased.</p>
+                <p>
+                    <title>Thursday, February 17th.</title>—This
+being the first day for which Questions
+could be put down, Members took full
+advantage of the opportunity, and propounded
+ninety-nine of them. Ministers
+displayed less enthusiasm, and some of
+them were so late in arriving that the
+<name rend="sc">Speaker</name> had to dodge about all over
+the paper before the list was disposed
+of. Mr. <name rend="sc">Ginnell</name> was, as usual, well
+to the fore with silly rumours. There
+is perhaps a subtle connection between
+cattle-driving and hunting for mare's nests.</p>
+                <p>The pleasantest feature of Question
+time was the tribute paid (with hint of
+more substantial rewards to come after
+the War) to the gallantry and self-sacrifice
+of the officers and men of our
+mercantile marine. This furnished an
+appropriate prelude to the subject of
+the ensuing debate. Mr. <name rend="sc">Peto</name> and
+others sought to press upon the
+Government the more economical use
+of our merchant shipping. Here they
+were forcing an open door. Steps have
+already been taken to restrict the imports
+of luxuries. Ministers are unanimous,
+I believe, in regarding "ginger,"
+for instance, as an article whose importation
+might profitably be curtailed.</p>
+                <milestone rend="hr" unit="rule"/>
+                <figure>
+                    <graphic url="images/140.png"/>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+                <pb xml:id="page141" n="pg 141"/>
+                <div xml:id="d1e1625" type="div3">
+                    <head>ECONOMY AT THE CINEMA DE LUXE.</head>
+                    <figure>
+                        <graphic url="images/141.png"/>
+                    </figure>
+                    <milestone rend="hr" unit="rule"/>
+                </div>
+            </div>
+            <div xml:id="d1e1636" type="div2">
+                <head>HIGHLAND HOSPITALITY.</head>
+                <p>It happened in Scotland—it couldn't
+have happened anywhere else.</p>
+                <p>I had been visiting the MacNeils.
+They sympathised over my wound; they
+rallied round with tea and toast; they
+provided Scotch whisky. My one objection
+to the family was their supreme
+confidence in these new-fledged lads
+of the Home Defence, whom I—as a
+Subaltern of the old school who had
+done my time at Sandhurst before the
+War—scorned with a dogged contempt
+which no degree of argument could kill.</p>
+                <p>It was when I reached the street
+that I realised that fervid fire in the
+soul of Scotch hospitality—a fire which
+brands it as unique in our island story.
+In my coat pocket reposed a bottle of
+Heather Dew.</p>
+                <p>The convalescent home where I was
+being wooed back to brisk health was
+situated along the sea-front. Chuckling
+at the MacNeils' efforts to modify my
+views of our Home Defenders and their
+inefficiency, and brooding on the folks'
+kind hearts, I paused to light a
+cigarette. The wind blew out the
+fluttering flame. It also set me sneezing,
+for I had a bad cold in the head.
+I struck another match.</p>
+                <p>"Hey!" said a voice suddenly behind
+me. I swerved, choking back a sneeze.
+"Hey, hey, hey!" some broad Doric
+tongue continued.</p>
+                <p>A heavy hand came plump on my
+shoulder; a large Highland face was
+pushed into mine; a kilt flapped round
+long bare shanks. I sneezed again.</p>
+                <p>"Got ye this time, lad!" announced
+the son of the North, who now appeared
+to be a brawny lance-corporal. "Signallin'
+ye are. Oot to sea. Ah saw ye
+blinkin' wi' a licht."</p>
+                <p>I sneezed again. "I was'd!" I
+declared as well as the cold in my
+head would allow. "It was a batch.
+I've dever sigdalled id by life. You're
+wrog—quite wrog!"</p>
+                <p>He gripped me firmly by the arm.</p>
+                <p>"Dinna tell me!" he announced in
+conclusive tones. "Ah ken better!
+Ye're the second spy Ah've cotched.
+Come along, ma freend Fritz! Ye'll
+hae the job o' explainin' to the Colonel
+whaur ye got that second-lootenant's
+uniform."</p>
+                <p>Hunching his rifle over his shoulder,
+he marched me back the way I had
+come.</p>
+                <p>"Where are you takig be to?" I
+enquired thickly. "Take be to your
+Cobbadig Officer at wudce. I wad to
+egsplaid!"</p>
+                <p>"Ah'll hae nane o' your clavers,"
+he said shortly. "Ye're for the gaird-room.
+Dinna tell ma ye're no a German
+wi' a tongue like yon!"</p>
+                <p>"I've god a gold id by head!" I
+shouted at him. "I'b dot a Gerbud!
+I'b Lieutedad Dobsod——"</p>
+                <p>"Haud yer tongue. Ye're a Chooton.
+An' ye're cotched. That's flat."</p>
+                <p>I was bundled into a draughty cattle-shed.
+The door was slammed. I
+sneezed. It was a bright prospect. I
+changed my views on the inefficiency
+of our Home Defenders. They now
+appealed to me as violently efficient.
+A night in a tumble-down cow-house!
+Desolation! Then I brightened up:
+the MacNeils' whisky. The cork
+popped in the silence of the night.</p>
+                <p>The door opened. A sentry's head
+was poked round. Disregarding him,
+I raised the bottle to my chattering
+teeth. Then the lance-corporal
+appeared. With a sudden thought I
+offered him the bottle. A strange look
+crept across his face. Gingerly he took
+the bottle. Then there was a comfortable
+sound. He drew a hand across
+his mouth.</p>
+                <p>"That's grrand," he said. "Beg
+pardon, Sir. It's been ma mistake.
+Jock, the prisoner is a Scottish officer.
+Let him gang.... Thank ye, Sir;
+thank ye for the whisky."</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"The Germans ... a whole company
+being decimated, the only survivors, a captain
+and seventy men, surrendering."</p>
+                    <p>
+                        <title>Pall Mall Gazette.</title>
+                    </p>
+                </quote>
+                <p>This indication that the normal strength
+of a German company is now only 79
+is welcome news.</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"The air defence of London is now practically
+under the control of the home forces, of
+which Lord French is Commander-in-Chief,
+and Admiral Lord French is Commander-in
+Chief, and Admiral the gunnery defences of
+London."—<title>Provincial Paper.</title>
+                    </p>
+                </quote>
+                <p>So now we're all right.</p>
+                <milestone rend="hr" unit="rule"/>
+                <quote>
+                    <p>
+"The spectacle of the snow-clad trees on the
+London Road, and in other suburban districts,
+was pleasant to the eye, although it made
+walking a trifle difficult."—<title>Leicester Mail.</title>
+                    </p>
+                </quote>
+                <p>It is our habit to discourage the
+dangerous practice of tree-gazing while
+in motion.</p>
+                <milestone rend="hr" unit="rule"/>
+                <pb xml:id="page142" n="pg 142"/>
+            </div>
+            <div xml:id="d1e1747" type="div2">
+                <head>ONCE UPON A TIME.</head>
+                <div xml:id="d1e1751" type="div3">
+                    <head>The Miracle.</head>
+                    <p>Once upon a time there was one
+Herbert. The doctor being unwilling to
+pass him so that there was no chance
+that he, in the words of the great joke,
+would "march too," he had taken a
+situation as a waiter.</p>
+                    <p>Englishmen (it is an axiom) do not
+make good waiters; nor was he an
+exception. But he was conscientious
+and painstaking, although clumsy and
+of short memory. Still, this
+was war-time, and Hans had
+gone to Germany and might
+now be dead, and Fritz very
+properly was interned, and Josef
+had sought Vienna once more,
+and Pasquale and Giuseppe had
+rejoined the Italian flag, and the
+only foreigners left were a few
+nondescripts, very volubly, indeed
+almost passionately, of
+Swiss nationality. In fact, if
+this War has done nothing else
+it has at least established the
+fact that the male population of
+Switzerland is far greater than
+any one had supposed. Gallant
+little Switzerland!</p>
+                    <p>So you see this was Herbert's
+chance, and the manager was
+glad to get him; and Herbert,
+who, owing to the slump in
+games, had lost his job at an
+athletic sports factory and had
+certain financial liabilities which
+he had long since abandoned
+any hope of meeting, was glad
+to come. Only, by infinite self-denial
+and sacrifice did he get
+together the necessary capital
+for his clothes and the deposit
+demanded from waiters against
+breakages, theft and so forth.</p>
+                    <p>On his first day as one in
+charge of three or four tables
+Herbert made some very serious
+mistakes. He was complained
+of for slowness, he turned over
+a sauce-boat, he broke a glass, and
+he forgot to charge for the cigar which
+the portly gentleman in the corner had
+taken after his lunch. And this cigar
+was a half-crown Corona, for the portly
+gentleman either had not yet grasped
+the full meaning of War economy or
+was enjoying one of those periodical
+orgies to which even rigid economist
+think themselves to be entitled.</p>
+                    <p>Already Herbert had, like <title>Alnaschar</title>
+in the Eastern tale, spent imagination
+far more than he could make all the
+week, and this blow, with the manager's
+abuse to serve as salt in the wound,
+sent him home in misery. Nor was
+it as if the portly gentleman was a
+regular customer who could be reminded
+of the error (little as such
+reminding is to the taste of regular
+customers); on the contrary, he had
+never been known to visit the restaurant
+before. You see, then, how unhappily
+Herbert viewed life as he
+lay awake in his attic that night,
+and very heavy were his feet on his
+way to work the next day, with an
+overcoat buttoned up to his neck to
+hide his evening dress.</p>
+                    <p>It was a cold rainy morning; the
+wind raged; and the very indifferent
+soles of Herbert's boots absorbed moisture
+like blotting-paper. Everything
+was against him. There was not a
+gleam of hope in the future, not a ray
+of light. His companions were surly,
+the manager was venomous, the bitter
+rain fell on. He was in debt and would
+get the sack.</p>
+                    <p>It was then that the miracle happened.
+Suddenly Herbert, who was
+gazing forlornly through the window
+at this disconsolate world, waiting,
+napkin on his arm, to begin to wait,
+heard a voice saying, "I'm afraid you
+forgot to charge me for my cigar yesterday."
+It was the portly gentleman.
+Life was not utterly hopeless any
+more.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <figure>
+                        <graphic url="images/142.png"/>
+                    </figure>
+                    <milestone rend="hr" unit="rule"/>
+                </div>
+            </div>
+            <div xml:id="d1e1789" type="div2">
+                <head>THE BEST AIR "MINISTER."</head>
+                <lg>
+                    <lg>
+                        <l>Who shall be Lord of the Air,</l>
+                        <l>Now N. has seen fit to declare,</l>
+                        <l>To his followers' deep despair,</l>
+                        <l>That he can't conscientiously sit</l>
+                        <l>In a Cabinet void of grit?</l>
+                        <l>For <name rend="sc">Churchill</name> is tied to the Front,</l>
+                        <l>And <name rend="sc">Markham</name> is out of the hunt,</l>
+                        <l>And eloquent <name rend="sc">Bernard Vaughan</name>
+                        </l>
+                        <l>From his pulpit can't be withdrawn.</l>
+                    </lg>
+                    <lg>
+                        <l>Who shall be Lord of the Air</l>
+                        <l>And take us all under his care?</l>
+                        <l>Why, <name rend="sc">Robertson Nicoll</name>, of course—</l>
+                        <l>A man of colossal force,</l>
+                        <l>With a perfectly splendid gift</l>
+                        <l>For soaring and moral uplift.</l>
+                        <l>For, though nobody so uniquely</l>
+                        <l>Can hearten <title>The British Weekly</title>,</l>
+                        <l>His readers will cheerfully spare</l>
+                        <l>Him to go and remain in the air,</l>
+                        <l>Careering along the inane</l>
+                        <l>In a Nicoll-plated plane</l>
+                        <l>With, to lend him additional fervour,</l>
+                        <l>Mr. <name rend="sc">G*rv*n</name> as his "Observer."</l>
+                    </lg>
+                </lg>
+                <milestone rend="hr" unit="rule"/>
+                <div xml:id="d1e1894" type="div3">
+                    <head>The Mule's Parentage.</head>
+                    <p>
+                        <name rend="sc">The Best Thing Yet Said of
+the 22.</name>
+                    </p>
+                    <quote>
+                        <p>
+Mr. Gibson Bowles, at the City
+blockade meeting, on the Coalition:
+"The Government did not swop
+horses. They made an alliance with
+another animal; and the result is a
+mule without pride of ancestry or hope
+of posterity."—<title>Evening News.</title>
+                        </p>
+                    </quote>
+                    <p>Incidentally the unkindest thing
+that has yet been said of the
+Unionists who joined the late
+Ministry.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+"There were further indications at
+the meeting of the Salop County
+Council on Saturday of the Council's
+desire to economise where possible.
+Dr. McCarthy drew attention to
+figures given in the report of the
+County Medical Officer of Health
+showing a diminution in the birth-rate
+of the county for the quarter to
+the extent of 14 per cent."</p>
+                        <p>
+                            <title>Wellington Journal.</title>
+                        </p>
+                    </quote>
+                    <p>Economy of any kind is praiseworthy,
+but we think they might have begun
+with one of the other rates.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+"The domestic income of a more or less
+typical three-roomed cottage near the docks
+is at present £17 per week. Among the
+recent purchases of the family, a pianoforte,
+costing £50, may be enumerated, although
+no one in the house can play a note. This
+looks more wasteful than the common outlay
+on gramophones, which at least give pleasure.
+The idea of sound investment is slow in penetration
+among the suddenly affluent in wages."</p>
+                        <p>
+                            <title>Liverpool Daily Post and Mercury.</title>
+                        </p>
+                    </quote>
+                    <p>We dislike carping, but surely a piano
+is always a sound investment.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <pb xml:id="page143" n="pg 143"/>
+                </div>
+            </div>
+            <div xml:id="d1e1955" type="div2">
+                <head>OUR BOOKING-OFFICE.</head>
+                <p>(<title>By Mr. Punch's Staff of Learned Clerks.</title>)</p>
+                <p>In fiction it is certainly true that nothing succeeds like
+success. There is a sure and very understandable charm in
+a story of climbing fortunes. Therefore it may be that part
+of my pleasure in <title>Tasker Jevons</title> (<name rend="sc">Hutchinson</name>) was due to
+sympathy with the upward progress of its hero. But much
+more was certainly due to the art with which Miss <name rend="sc">May
+Sinclair</name> has written about it. <title>Tasker Jevons</title> is a book,
+and a character, that will linger pleasantly in my memory.
+He was a little man with a great personality, or rather I
+will say a great purpose, and that was to approve himself
+in the eyes of the wife whom he worshipped, and her perplexed,
+slightly contemptuous family. The trouble was that
+<title>Tasker</title> was in the beginning a hack journalist, socially and
+personally impossible; and that <title>Viola Thesiger</title>, whom he
+married, belonged by birth to the rigidest circle of Cathedral
+society (Miss <name rend="sc">Sinclair</name>, scorning subterfuge, calls it quite
+openly Canterbury). So you see the difficulties that beset
+the <title>Jevons</title> pair. Their story is told here, very effectively,
+through the mouth of a third person, a fellow-journalist and
+admirer of <title>Jevons</title>—but quite respectable—the rejected
+suitor of <title>Viola</title>, and eventually the husband of her sister.
+Through his clever and observant eyes we watch the
+progress of <title>Jevons</title>, see him prospering materially, becoming
+famous and rich and vulgarized. It is an unusually close
+and rather subtle study of the development of such a
+man. Eventually there happens that for which the date,
+Midsummer 1914, will have prepared you, even if you
+had forgotten that Miss <name rend="sc">Sinclair</name> had herself served in
+Belgium with a field ambulance. So the end of the book
+gives us some vivid War pictures. Taking it all round, I
+am inclined to consider <title>Tasker Jevons</title> the best of the 1916
+novels that has yet come my way.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>When, in the first chapter of <title>Moll Davis</title> (<name rend="sc">Allen and
+Unwin</name>), you find the heroine having a very pretty dispute
+with the landlord of the Mischief Inn, and a gallant blade
+of a fellow coming to her rescue, you will guess what fare
+is to follow. And, provided that your taste is for diet of
+the lightest, you will not be disappointed, for no one is
+more capable than Mr. <name rend="sc">Bernard Capes</name> of making it palatable.
+Here we are then back in the year 1661, and in a
+maze of intrigue. Wit, if we are to believe the novelist, was
+as plentiful in those days as morals were scarce, and
+Mr. <name rend="sc">Capes</name> is not the man to spoil tradition for lack of
+colour. He calls his book a comedy, but he should have
+called it a comedy with an interlude; and the part I like
+best is the interlude. Possibly because he was weary of
+plots and counterplots he suddenly breaks loose, and with a
+warning to those who have "an unconquerable repugnance
+to sentiment" tells a moving tale that has nothing to do
+with the main narrative. I can thank him unreservedly
+for this, and for the crop of words which he has added
+to my vocabulary. "Bingawast," "gingumbobs," and
+"fubbs" have the right ring, and after a little training I
+hope to use them with telling effect on my platoon.</p>
+                <milestone rend="hr" unit="rule"/>
+                <pb xml:id="page144" n="pg 144"/>
+                <p>
+                    <title>Edith Ottley</title> cherished a passion for <title>Aylmer Ross</title>; to
+such an extent indeed that she came within an ace of
+eloping with him. However, the ace wasn't played; and
+in due course <title>Aylmer</title> went to the War and became a
+captain. Unfortunately he also became much more interesting
+by reason of a wound; and, when this brought him
+back to England, the passion also returned, stronger than
+ever. This, of course, is why their story is called <title>Love at
+Second Sight</title> (<name rend="sc">Grant Richards</name>). I have now a small
+surprise for you, namely that <title>Edith</title> was already married,
+and owned a charming house, a valetudinarian husband
+and two pleasant children. So I quite expected that
+<title>Aylmer</title>, in the fulness of time, would either (1) be removed
+by the enemy, or (2) marry a delightful little Red-Cross
+nurse who adored him. But the author, Mrs. <name rend="sc">Leverson</name>,
+had other views. Instead therefore of ending her heroine
+in the expected mood of conventional reconciliation she
+sends the objectionable husband off with somebody else,
+and leaves us to a prospect of wedding-bells with the
+divorce court as a preliminary.
+Which is at least original.
+But throughout I had the feeling
+that a great deal of bright
+and clever writing was being
+wasted on a poor theme. The
+characters are brilliantly suggested,
+but—with perhaps
+one exception, forgetful <title>Lady
+Conroy</title>, who is an entire delight—they
+seem altogether
+unworthy of it. In fact I
+came away from the book
+with the impression of having
+attended a gathering of somewhat
+shoddily smart people,
+and sat next to a clever woman
+who had been witty about
+them. The worst of the
+matter is that they are all so
+real. This is a tribute to the
+author, but a most unpleasant
+reflection for everyone else.</p>
+                <milestone rend="hr" unit="rule"/>
+                <figure>
+                    <graphic url="images/144.png"/>
+                </figure>
+                <milestone rend="hr" unit="rule"/>
+                <p>My attention was first
+attracted to <title>The New Dawn</title>
+(<name rend="sc">Long</name>) by the fact that the plot starts at Euston Station.
+That interesting, not to say romantic, line, the L. &amp; N. W. R.,
+is usually shunned by our novelists. But although
+"<name rend="sc">George Wovil</name>" takes his characters to the furthest North,
+even beyond Glasgow, their sympathies, like, I think, those
+of their creator, remain behind in fair and false and fickle
+Wimbledon. This at least was where <title>Halvey Brown</title>
+wished himself as the train glided over the best laid track
+in Europe towards dour Bartocher. And <title>Brown</title>, though
+he knew the natural drabness of his destination already,
+had at that time no information as to all the unpleasing
+events that were to happen there; that, for example, the
+minister's new wife would turn out to be a lady with a past
+that he himself had shared, or that the fair-haired young
+man in the same compartment was the assistant minister,
+who would fall in love with the said wife and eventually
+slay her, the minister, and himself. I find I have been led
+into betraying for you the outline of the story. Perhaps, however,
+this does not greatly matter. The value of the book
+lies in its very natural and human characters. All four
+of them—there are only four who really matter—are admirably
+drawn, so that the tragedy of their lives holds and
+convinces you. My complaints against the author are, first,
+the excess of emphasis that he gives to the physical unpleasantness
+of his background; secondly, the loose construction
+that allows the tale to be continually turning back to look
+behind it. He would keep a lover in the act of embracing
+the lady of his heart while he explains what the parents of
+each died of, and all that has happened since. Still, <title>The
+New Dawn</title> remains an unconventional and strongly written
+story, which will certainly interest though perhaps hardly
+enliven you.</p>
+                <milestone rend="hr" unit="rule"/>
+                <p>There is something very soothing in the peeps into dusty
+family papers and the faint echoes of departed gossip which
+Mrs. <name rend="sc">Stirling</name> provides in <title>A Painter of Dreams</title> (<name rend="sc">Lane</name>).
+These pleasantly amateurish historical studies go back a
+century and a half. A commonplace book from which are
+quoted many diverting and incredible things; a chapter in
+which those queer Radicals, <name rend="sc">Horne Tooke, Cobbett</name>, Sir
+<name rend="sc">Francis Burdett</name> and bluff Squire <name rend="sc">Bosville</name>, are chiefly
+concerned; a sketch of the fourth Earl of <name rend="sc">Albemarle</name>,
+keen farmer and friend of <name rend="sc">Coke</name> of Norfolk, Master of the
+Horse to <name rend="sc">William IV</name>. and
+<name rend="sc">Queen Victoria</name> (it is to
+<name rend="sc">Albemarle</name> in this capacity
+that the <name rend="sc">Iron Duke</name> said:
+"The Queen can make you go
+inside the coach, or outside
+the coach, or run behind it
+like a d——d tinker's dog"),
+winner of the Ascot Gold Cup
+three years running and stiff-backed
+autocrat; an account
+of the beautiful Misses <name rend="sc">Caton</name>
+of Baltimore and their matrimonial
+adventures—the American
+invasion of brides bringing
+money and beauty in exchange
+for titles thus dating back to
+1816; some details of the lives
+of two artists, <name rend="sc">John Herring</name>,
+animal painter, and <name rend="sc">Roddam
+Spencer Stanhope</name>, one of the
+lesser pre-Raphaelites and the
+painter of dreams referred to
+in the title—these all make up
+an agreeable pot-pourri with
+an old-world fragrance which
+ought to be able to charm you out of the preposterous
+nightmare of the present. But it makes one feel old to
+see that the conscientious author thinks that <name rend="sc">Dicky Doyle</name>
+now needs a footnote to let the present generation know
+who he was.</p>
+                <milestone rend="hr" unit="rule"/>
+                <div xml:id="d1e2151" type="div3">
+                    <head>From the Catalogue of a V.T.C. Tailor.</head>
+                    <quote>
+                        <p>
+"'I am,' a V.T.C. Secretary writes, 'in correspondence with the
+undertaker, and hope at last to induce the War Office to recognise us
+by sending a representative to attend our funeral rites.'"
+</p>
+                    </quote>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+"One man of four who escaped the bombs."—<title>Morning Paper.</title>
+                        </p>
+                    </quote>
+                    <p>A little too old for the baby-killers.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+                            <name rend="sc">"Lord Sumner on the Need for Self-Sacrifice.</name>
+                        </p>
+                        <p>'If the House of Lords and the House of Commons could be taken
+and thrown into a volcano every day the loss represented would be
+less than the daily cost of the campaign.'"—<title>The Times.</title>
+                        </p>
+                    </quote>
+                    <p>It sounds a drastic remedy, but might be worth trying.</p>
+                    <milestone rend="hr" unit="rule"/>
+                    <quote>
+                        <p>
+"Lemons, used largely for making demonade, have a medicinal
+value."—<title>Daily Paper.</title>
+                        </p>
+                    </quote>
+                    <p>We know nothing of the drinks popular in the lower
+regions, but have always heard that the nectarines used
+for making nectar have a strong tonic effect.</p>
+                    <milestone rend="hr" unit="rule"/>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
