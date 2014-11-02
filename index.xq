@@ -13,13 +13,13 @@ declare option exist:serialize 'method=xhtml media-type=text/html indent=yes';
  :)
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
-        <title>TEI@Oxford: Punch eXist Tutorial Website</title>
+        <title>Digital.Humanities@Oxford: Punch eXist Tutorial Website</title>
     </head>
     <body>
         <div>
-            <h1>TEI@Oxford: Punch eXist Tutorial Website</h1>
-            <p>Welcome to the Punch eXist Tutorial Website, developed for the TEI@Oxford 
-                Summer Course in July 2010.</p>
+            <h1>Digital.Humanities@Oxford: Punch eXist Tutorial Website</h1>
+            <p>Welcome to the Punch eXist Tutorial Website, developed for the Digital.Humanities@Oxford 
+                Summer School in July 2011.</p>
             <p>The tutorial demonstrates the development of a website around the Punch 
                 materials.  Each "version" of the site improves the presentation and 
                 usefulness of the site:
