@@ -24,7 +24,7 @@ declare option exist:serialize 'method=xhtml media-type=text/html indent=yes';
             <h1>Punch: Browse by Issue</h1>
             <ol>
                 {
-                (: For each TEI file in /db/punch/data, we will get the issue's title and 
+                (: For each TEI file in /db/apps/punch/data, we will get the issue's title and 
                  : filename, and we will use this to construct a link to view-whole-issue.xq :)
                 for $issue in collection('/db/apps/punch/data')/tei:TEI
                 let $title := $issue/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title
