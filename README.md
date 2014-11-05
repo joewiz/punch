@@ -1,3 +1,5 @@
+![Punch masthead](https://raw.githubusercontent.com/joewiz/punch/master/icon.png)
+
 # Punch
 
 A simple application written in XQuery for eXist demonstrating how to create a dynamic, searchable website for TEI text.
