@@ -23,7 +23,7 @@ return
             {
             tei-to-html:render($text, 
                 <parameters xmlns="">
-                    <param name="relative-image-path" value="/apps/punch/data/"/>
+                    <param name="relative-image-path" value="/exist/apps/punch/data/"/>
                 </parameters>)
             }
         </div>

@@ -42,7 +42,7 @@ return
              :)
             tei-to-html:render($text, 
                 <parameters xmlns="">
-                    <param name="relative-image-path" value="/apps/punch/data/"/>
+                    <param name="relative-image-path" value="/exist/apps/punch/data/"/>
                     <param name="show-page-breaks" value="true"/>
                 </parameters>)
             }

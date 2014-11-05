@@ -19,7 +19,7 @@ declare function punch:issue-title($node) {
 };
 
 declare function punch:title-issue-section($issue, $section) {
-    let $doc := doc(concat('/db/punch/data/', $issue))
+    let $doc := doc(concat('/db/apps/punch/data/', $issue))
     let $div := $doc/id($section)
     let $title := concat(punch:issue-title($doc), ', ', punch:derive-title($div))
     return 
