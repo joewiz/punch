@@ -17,5 +17,11 @@
                 <li>Initial adaptation to EXPath Package</li>
             </ul>
         </change>
+        <change version="0.2">
+            <ul xmlns="http://www.w3.org/1999/xhtml">
+                <li>Fixed paths, typos</li>
+                <li>Removed unreferenced images to reduce package size</li>
+            </ul>
+        </change>
     </changelog>
 </meta>
