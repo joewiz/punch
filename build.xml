@@ -4,6 +4,7 @@
     <property name="project.version" value="0.2"/>
     <property name="project.name" value="Punch"/>
     <property name="build" value="./build"/>
+    <property name="source" value="./src"/>
     <property name="server.url" value="http://demo.exist-db.org/exist/apps/public-repo/public/"/>
     <condition property="git.commit" value="${git.commit}" else="">
         <isset property="git.commit"/>
@@ -15,13 +16,13 @@
     </target>
     <target name="xar">
         <mkdir dir="${build}"/>
-        <copy file="expath-pkg.xml.tmpl" tofile="expath-pkg.xml" filtering="true" overwrite="true">
+        <copy file="${source}/expath-pkg.xml.tmpl" tofile="${source}/expath-pkg.xml" filtering="true" overwrite="true">
             <filterset>
                 <filter token="project.version" value="${project.version}"/>
             </filterset>
         </copy>
         <zip destfile="${build}/${project.app}-${project.version}${git.commit}.xar">
-            <fileset dir=".">
+            <fileset dir="${source}">
                 <include name="**"/>
                 <exclude name="build/"/>
                 <exclude name=".git*"/>

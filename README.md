@@ -1,4 +1,4 @@
-![Punch masthead](https://raw.githubusercontent.com/joewiz/punch/master/icon.png)
+![Punch masthead](https://raw.githubusercontent.com/joewiz/punch/master/src/icon.png)
 
 # Punch
 
